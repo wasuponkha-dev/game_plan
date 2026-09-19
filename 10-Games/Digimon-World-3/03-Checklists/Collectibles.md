@@ -11,7 +11,7 @@ game: "Digimon World 3"
 | หมวด | เก็บได้ | ทั้งหมด | รายละเอียด |
 |---|---|---|---|
 | **Partner Digimon** | 3 | 8 | → [[Partners]] · ⚠️ ล็อกด้วยเลเวล → [[Missables]] |
-| **Digivolution** | ? | 44+ ต่อตัว | → [[Digivolution]] |
+| **Digivolution** | ? | 44+ ต่อตัว | → [[00-วิธีอ่านผัง|ผัง Digivolution]] |
 | **อาวุธ/เกราะขั้นสุด** | ? | 8 ชุด | → [[Items-Equipment]] |
 | **Booster Pack** | ? | **36** (30 ปกติ + 6 พิเศษ) | Bo · Exa · Giga · Mega · Peta · Tera |
 | **Chip เพิ่มสเตตัส** | ? | ~16 ชนิด | ซื้อได้ หรือฟาร์มจากศัตรู → [[Enemy-Digimon]] |
