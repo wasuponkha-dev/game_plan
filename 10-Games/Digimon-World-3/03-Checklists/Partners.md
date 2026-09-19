@@ -3,50 +3,66 @@ type: checklist
 subtype: partners
 game: "Digimon World 3"
 total: 8
-obtained: 3
+obtained: 6
 ---
 
-# 🐾 Partner Digimon (3/8 ยืนยันแล้ว)
+# 🐾 Partner Digimon — 6/8 ✅
 
-> เริ่มเกมได้ 3 ตัวตาม Starter Pack ที่เลือก · อีก 5 ตัวจากเควส DNA · Veemon จาก Card Battle
+**Starter Pack ที่เลือก: Speed** (Kotemon · Renamon · Patamon)
 
-## Starter Pack (เลือกตอนเริ่มเกม)
+## เช็คลิสต์
 
-| Pack | Partner |
-|---|---|
-| Speed | Kotemon · Renamon · Patamon |
-| Power | Monmon · Agumon · Renamon |
-| Maniac | Kumamon · Guilmon · Patamon |
+| Partner | ได้มาจาก | จุดเด่น | จุดอ่อน | อาวุธถนัด | สายประจำตัว | มีแล้ว |
+|---|---|---|---|---|---|---|
+| **Kotemon** | 🎒 Starter | สมดุลที่สุด ไม่มีจุดอ่อนใหญ่ | แพ้ Ice | **คาตานะ** · ดาบ | Dinohumon → Kyukimon | ✅ |
+| **Renamon** | 🎒 Starter | MP/Spirit สูงสุด เวทแรง | ป้องกันแย่สุด · แพ้ Wind/Machine | ไม้เท้า · หอก · โล่ | Kyubimon → Taomon → Sakuyamon | ✅ |
+| **Patamon** | 🎒 Starter | **หมอประจำทีม** Mind/Spirit สูง | HP ต่ำสุด · แพ้ Thunder | ไม้เท้า · หอก · โล่ | Angemon → MagnaAngemon → Seraphimon | ✅ |
+| **Agumon** | 🧬 DDNA | สมดุลทุกด้าน | ช้าที่สุด | ดาบ · ดาบใหญ่ · โล่ · เขา | Greymon → MetalGreymon → WarGreymon | ✅ |
+| **Guilmon** | 🧬 DDNA | เร็วและแรง เน้นตีกาย | แพ้ Thunder | ดาบ · ดาบใหญ่ · โล่ · เขา | Growlmon → WarGrowlmon → Gallantmon | ✅ |
+| **Veemon** | 🧬 DDNA / 🃏 Card | เร็ว · เข้าสายมังกรถูกสุด | — | Claw · ดาบ · โล่ | ExVeemon → Paildramon → Imperialdramon | ✅ |
+| **Kumamon** | 🧬 DDNA | HP/พลังตี/ป้องกันสูงสุด | MP/เวทแย่สุด · แพ้ Dark | **ถุงมือเกราะ** | Grizzmon → GrapLeomon → Marsmon | ⬜ |
+| **Monmon** | 🧬 DDNA | **เร็วที่สุด** · ใช้ปืนและธนู | แพ้ Water/Wind | **ปืน · ธนู** · ทวน | สาย Machine | ⬜ |
 
-**ฮันเลือก:** `<ยังไม่ทราบ>` — แต่ทีมมี Agumon (Power) + Kotemon (Speed) ซึ่งคนละ pack แปลว่าได้ตัวเพิ่มจากเควส DNA แล้ว
+---
 
-## เช็คลิสต์ 8 ตัว
+## 🎯 อีก 2 ตัวที่ขาด — ยังเก็บได้ทัน
 
-| Partner | จุดเด่น | จุดอ่อน | อาวุธถนัด | สาย Digivolve | ได้แล้ว |
-|---|---|---|---|---|---|
-| **Agumon** | สมดุลทุกด้าน ตีและเวทดีพอกัน | ช้าที่สุด | ดาบ · ดาบใหญ่ · โล่ · เขา | Greymon | [x] **LV27** |
-| **Guilmon** | เร็วและแรง เน้นตีกาย | แพ้ Thunder | ดาบ · ดาบใหญ่ · โล่ · เขา | Growlmon | [ ] |
-| **Kumamon** | HP/พลังตี/ป้องกันสูงสุด | MP กับเวทแย่สุด · แพ้ Dark | ถุงมือเกราะ | Grizzmon (สายสัตว์) | [ ] |
-| **Kotemon** | สมดุลที่สุด ไม่มีจุดอ่อนใหญ่ | ไม่เด่นด้านไหนเลย · แพ้ Ice | **คาตานะ** · ดาบ | Dinohumon → Greymon | [x] **LV23** |
-| **Renamon** | MP/Spirit สูงสุด เวทแรง | ป้องกันแย่สุด · แพ้ Wind/Machine | ไม้เท้า · หอก · โล่ | Kyubimon → Taomon | [ ] |
-| **Patamon** | **หมอประจำทีม** · Mind/Spirit สูง | HP ต่ำสุด · แพ้ Thunder | ไม้เท้า · หอก · โล่ | Angemon | [ ] |
-| **Monmon** | เร็วที่สุด · ใช้ปืนและธนู | แพ้ Water/Wind | **ปืน · ธนู** · ทวน | สาย Machine | [ ] |
-| **Veemon** | เร็ว · สายมังกรถูกสุด | — | Claw · Sword · Shield | ExVeemon → Paildramon → Imperialdramon | [x] **LV19** 🃏 |
+| Partner | ต้องล้มใคร | อยู่ที่ไหน | เข้าถึงได้แล้วไหม |
+|---|---|---|---|
+| **Kumamon** | **GrapLeomon** | **Ether Jungle** (Asuka South) | ✅ เปิดแล้ว |
+| **Monmon** | **Armormon** | **Duel Island** (Asuka East) | ✅ เปิดแล้ว — เรียก Submarimon จาก Divermon's Lake |
+
+> [!warning] ต้อง "รับเควส" จาก DRI ที่ Mobius Desert ก่อน
+> เควสช่วงเลเวลรวม **60–90** ยังเปิดอยู่ (ตอนนี้ 69) — รับให้ครบก่อน แล้วค่อยไปล้มทีหลังได้
+> → [[Missables]]
 
 ## ทีมที่ใช้อยู่
 
-| ตำแหน่ง | Partner | เลเวล |
+| ตำแหน่ง | Partner | LV |
 |---|---|---|
 | 1 | Agumon | 27 |
 | 2 | Kotemon | 23 |
 | 3 | Veemon | 19 |
 
-**เลเวลรวมทั้งทีม:** **69** ⚠️ อยู่ในช่วง 60–90 → ดู [[Missables]]
+**ตัวสำรอง:** Patamon · Renamon · Guilmon — ⚠️ **ยังไม่ได้บันทึกเลเวล**
+
+> [!danger] ต้องเช็คด่วน: เลเวลรวมนับทั้ง 6 ตัวหรือแค่ 3 ตัวในทีม?
+> guide เขียนว่า *"total combined levels of all **current** Partner Digimon"*
+> - ถ้านับ**แค่ทีม 3 ตัว** → เลเวลรวม = **69** ✅ ยังอยู่ในช่วง
+> - ถ้านับ**ทั้ง 6 ตัว** → อาจ **เกิน 90 ไปแล้ว** ❌
+>
+> 👉 **เช็คเลเวลของ Patamon · Renamon · Guilmon แล้วบวกดู** ก่อนทำอย่างอื่น
 
 ## Digivolution
 
-> Partner แต่ละตัว Digivolve ได้ 44+ แบบ · รวมทั้งเกมมีหลายร้อยฟอร์ม
+ผังแยกตัว → [[00-วิธีอ่านผัง]]
 
-| Partner | ปลดแล้ว | ทั้งหมด |
+| Partner | ผัง | ปลดแล้ว |
 |---|---|---|
-| | 0 | 44+ |
+| Agumon | [[01-Agumon]] | Greymon · MetalGreymon |
+| Kotemon | [[02-Kotemon]] | Dinohumon · Greymon |
+| Veemon | [[03-Veemon]] | ExVeemon |
+| Kumamon | [[04-Kumamon]] | — |
+| Patamon | [[05-Patamon]] | ? |
+| Renamon | [[06-Renamon]] | ? |
+| **Guilmon** | ⚠️ guide ไม่มีผัง | ? |

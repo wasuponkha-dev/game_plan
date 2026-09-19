@@ -42,7 +42,14 @@ guide หน้า 4 เขียนว่า *"the level range required **to ge
 > 3. **รับเควสให้ครบทั้ง 3 อัน**
 > 4. พอรับครบ → ฟาร์มได้ตามสบาย ไปล้ม Digimon เอา DDNA ทีหลัง
 
-## 🎯 DDNA แต่ละอันต้องไปล้มใคร
+## 🎯 เหลือแค่ 2 ตัว — Kumamon กับ Monmon
+
+| Partner | ล้มใคร | ที่ไหน |
+|---|---|---|
+| **Kumamon** | **GrapLeomon** | **Ether Jungle** (Asuka South) |
+| **Monmon** | **Armormon** | **Duel Island** (Asuka East — Submarimon จาก Divermon's Lake) |
+
+## DDNA ทั้งหมด (อ้างอิง)
 
 รายละเอียดเต็ม → [[Key-Items]]
 

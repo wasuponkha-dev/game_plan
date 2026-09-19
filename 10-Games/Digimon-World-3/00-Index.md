@@ -18,7 +18,7 @@ tags: [game, digimon, ps1]
 
 > [!abstract] เปิดมาอ่านตรงนี้ก่อน
 > **เนื้อเรื่องถึง:** ชนะ Byakko Leader แล้ว (Badge ใบที่ 3) → ต่อไป Genbu Leader
-> **ทำต่อ:** ไป Mobius Desert หา DRI ทำเควส DNA 3 อัน → แล้วตาม [[แผนการฝึก]]
+> **ทำต่อ:** ไป Mobius Desert **รับ** เควส DNA → ล้ม GrapLeomon (Ether Jungle) + Armormon (Duel Island) = ครบ 8 ตัว
 > **⚠️ ระวัง:** เลเวลรวม **69** — ไป **รับ** เควส DNA ที่ Mobius Desert ให้ครบก่อนเลเวลเกิน 90 (รับแล้วฟาร์มได้)
 > **เซฟไว้ที่:** 
 
@@ -27,8 +27,8 @@ tags: [game, digimon, ps1]
 | หมวด | เก็บได้ | ทั้งหมด | % |
 |---|---|---|---|
 | Sector Badge | 3 | 4 | 75% |
-| Partner Digimon | 3 | 8 | 38% |
-| เควส DNA (รับ Partner) | ? | 8 | ⚠️ พลาดไป 5 แล้ว? |
+| Partner Digimon | **6** | 8 | **75%** |
+| เควส DNA (รับ Partner) | 3 | 8 | เหลือเก็บ Kumamon + Monmon |
 | Digivolution | ? | ~350 | ? |
 | การ์ด (Card Battle) | ? | ? | ? |
 | **รวม** | | | **?%** |
