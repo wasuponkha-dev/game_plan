@@ -8,14 +8,26 @@ partner: Veemon
 # 🐉 ผัง Digivolution — Veemon
 
 > guide หน้า 75 · **สายถนัด: ExVeemon → Paildramon → Imperialdramon**
-> ⚠️ Veemon เป็น Partner ตัวเดียวที่ได้จาก **Card Battle** ไม่ใช่เควส DNA
+
+## 📋 สถานะจริงในเกม (Veemon LV20)
+
+| ร่าง | สี | เลเวลสกิล | หมายเหตุ |
+|---|---|---|---|
+| **ExVeemon** | ⚪ | 66 (ที่ LV19) | |
+| **Stingmon** | ⚪ | 6 (ที่ LV19) | 🔄 **เปลี่ยนจากฟ้าเป็นขาวตอน Veemon LV20** |
+| **Paildramon** | 🔵 | **1** | ⭐ **โผล่ใหม่ตอน LV20** — ตรงกับผัง `Veemon 20` |
+
+> [!note] สิ่งที่เรียนรู้จากภาพนี้
+> - ✅ **ยืนยัน:** `Veemon 20` → Paildramon ปรากฏจริง ตรงกับ guide
+> - ❓ **ขัดกับที่เข้าใจ:** Stingmon เป็นขาวที่ LV20 ทั้งที่ผัง guide บอกว่าต้อง `ExVeemon 30`
+>   → อาจมีทางตรงจาก Veemon ที่ guide ไม่ได้พิมพ์ไว้ หรือสีมีความหมายอื่น
 
 ## สายมังกร (สายประจำตัว)
 
 ```
 Veemon
  └─ ExVeemon ................. Veemon 5
-     └─ Paildramon ........... Veemon 20 + Stingmon 5
+     └─ Paildramon ........... Veemon 20 + Stingmon 5   ✅ ยืนยันแล้ว
          └─ Imperialdramon ... Veemon 40
              ├─ Imperialdramon-F ... Imperialdramon 99
              └─ Imperialdramon-P ... Imperialdramon-F 40 + Omnimon 40
@@ -35,7 +47,7 @@ Veemon
 
 | ร่าง | เงื่อนไข |
 |---|---|
-| **Stingmon** | ExVeemon 30 |
+| **Stingmon** | ExVeemon 30 ※ (ในเกมขึ้นขาวตั้งแต่ Veemon 20) |
 | **Kabuterimon** | Stingmon 40 |
 | **GranKuwagamon** | Imperialdramon 40 **+** Kabuterimon 40 |
 | **Diaboromon** ⭐ | GranKuwagamon 99 **+** BlackWarGreymon 99 |
@@ -107,15 +119,16 @@ Veemon
 
 ---
 
-## 🎯 แผนของ Veemon ตอนนี้ (LV15)
+## 🎯 ขั้นต่อไปของ Veemon (LV20)
 
-ผ่านเงื่อนไขแล้ว: **ExVeemon** — แต่เลเวลสกิลแค่ **66/100** ยังใช้ไม่ได้
+**Paildramon ปรากฏแล้ว — แต่ยังต้องผ่านอีก 2 อย่าง**
 
-| เป้าหมายถัดไป | ต้องทำอะไร |
+| ต้องทำ | สถานะ |
 |---|---|
-| **ExVeemon** | ผ่านเงื่อนไขแล้ว — **สู้ต่อจนเลเวลสกิลถึง 100** (ตอนนี้ 66) |
-| **Paildramon** | Veemon **LV20** (อีก 5 เลเวล) + ต้องมี **Stingmon LV5** ก่อน |
-| **Stingmon** | ExVeemon LV30 |
-| **Imperialdramon** | Veemon **LV40** |
+| **1. ได้ Stingmon LV5** | ต้อง Digivolve เป็น Stingmon ก่อน → รอเลเวลสกิล Stingmon ถึง 100 |
+| **2. เลเวลสกิล Paildramon ถึง 100** | ตอนนี้ **1** — ยังอีกไกล |
 
-> 💡 **Veemon คือทางที่ถูกที่สุดไปสาย Imperialdramon** — คุ้มที่จะปั้นต่อ แต่ ⚠️ ทุกเลเวลที่เพิ่มดันเลเวลรวมเข้าใกล้ 90 → เคลียร์เควส DNA ที่ Mobius Desert ก่อน ([[Missables]])
+**ทางที่เร็วที่สุด:** สู้ด้วย Veemon ต่อไป — ทุกร่างสะสมเลเวลสกิลพร้อมกัน
+พอ **ExVeemon** หรือ **Stingmon** ถึง 100 ให้ Digivolve ทันที แล้วปั้นร่างนั้นถึง LV5 เพื่อปลด Paildramon
+
+> 💡 Paildramon มีสเตตัสสูงกว่า ExVeemon ทุกด้าน (Strength 481 · Defense 211 · Wisdom 257) — คุ้มที่จะไล่
