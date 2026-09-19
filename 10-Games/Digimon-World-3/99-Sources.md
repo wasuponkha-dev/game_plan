@@ -39,7 +39,8 @@ game: "Digimon World 3"
 | 70–71 | Sidequests (Fishing Pole · Web · Kicking Boots) | [[Quests]] |
 | 72–75 | Partner Digivolutions | `03-Checklists/Digivolution/` 8 ไฟล์ ✅ ดึงใหม่ด้วยโหมดตาราง |
 | 76–77 | Enemy Digimon stats + ของดรอป | [[Enemy-Digimon]] ✅ 83 ตัว คอลัมน์ตรงแล้ว |
-| 78–80 | Items · Weapons · Armor · Accessories | [[Items-Equipment]] |
+| 78–79 | Items · Weapons · Armor | [[Items-Equipment]] |
+| **80** | **Accessories + ตาราง Where/Who/What** ⭐ | [[Key-Items]] — DDNA ทั้ง 8 · Rusty weapons · Badge · Digi-Egg |
 | 81–100 | แผนที่ไดอะแกรม · Seabed · Circuit Board | [[Seabed-Circuit-Board]] ⚠️ แผนที่เป็นภาพ ต้องเปิด PDF |
 
 ## หน้าที่ยังต้องเปิด PDF ดูเอง

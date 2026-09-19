@@ -19,7 +19,7 @@ tags: [game, digimon, ps1]
 > [!abstract] เปิดมาอ่านตรงนี้ก่อน
 > **เนื้อเรื่องถึง:** ชนะ Byakko Leader แล้ว (Badge ใบที่ 3) → ต่อไป Genbu Leader
 > **ทำต่อ:** ไป Mobius Desert หา DRI ทำเควส DNA 3 อัน → แล้วตาม [[แผนการฝึก]]
-> **⚠️ ระวัง:** เลเวลรวม **69** — เหลือ 21 เลเวลก่อนเกิน 90 · **หยุดฟาร์ม ไปทำเควส DNA ก่อน**
+> **⚠️ ระวัง:** เลเวลรวม **69** — ไป **รับ** เควส DNA ที่ Mobius Desert ให้ครบก่อนเลเวลเกิน 90 (รับแล้วฟาร์มได้)
 > **เซฟไว้ที่:** 
 
 ## ความคืบหน้า
@@ -46,6 +46,7 @@ tags: [game, digimon, ps1]
 - [[Missables]] — ⚠️ **เควส DNA มีเส้นตายเป็นเลเวล อ่านด่วน**
 - [[Digivolution]] · [[Items-Equipment]] · [[Enemy-Digimon]] — ข้อมูลจาก guide
 - [[Partners]] — Partner Digimon ทั้ง 8 ตัว
+- [[Key-Items]] — 🗝️ ของสำคัญทั้งเกม ใครถือ อยู่ที่ไหน
 - [[Collectibles]] · [[Bosses]] · [[Quests]] · [[Achievements]]
 
 ## 📂 อื่นๆ
