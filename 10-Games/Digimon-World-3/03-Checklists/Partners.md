@@ -31,7 +31,7 @@ obtained: 3
 | **Renamon** | MP/Spirit สูงสุด เวทแรง | ป้องกันแย่สุด · แพ้ Wind/Machine | ไม้เท้า · หอก · โล่ | Kyubimon → Taomon | [ ] |
 | **Patamon** | **หมอประจำทีม** · Mind/Spirit สูง | HP ต่ำสุด · แพ้ Thunder | ไม้เท้า · หอก · โล่ | Angemon | [ ] |
 | **Monmon** | เร็วที่สุด · ใช้ปืนและธนู | แพ้ Water/Wind | **ปืน · ธนู** · ทวน | สาย Machine | [ ] |
-| **Veemon** | — | — | — | ExVeemon | [x] **LV15** 🃏 |
+| **Veemon** | เร็ว · สายมังกรถูกสุด | — | Claw · Sword · Shield | ExVeemon → Paildramon → Imperialdramon | [x] **LV19** 🃏 |
 
 ## ทีมที่ใช้อยู่
 
@@ -39,9 +39,9 @@ obtained: 3
 |---|---|---|
 | 1 | Agumon | 27 |
 | 2 | Kotemon | 23 |
-| 3 | Veemon | 15 |
+| 3 | Veemon | 19 |
 
-**เลเวลรวมทั้งทีม:** **65** ⚠️ อยู่ในช่วง 60–90 → ดู [[Missables]]
+**เลเวลรวมทั้งทีม:** **69** ⚠️ อยู่ในช่วง 60–90 → ดู [[Missables]]
 
 ## Digivolution
 
