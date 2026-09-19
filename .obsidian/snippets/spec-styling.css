@@ -1,0 +1,123 @@
+/* ========================================================
+   Spec Document Styling — Maximum Specificity
+   บังคับให้ตัวหนาในตารางสีเข้ม (override theme)
+   ======================================================== */
+
+
+/* ========================================================
+   1. Force dark color for ALL bold/strong in tables
+   (สูงสุด specificity เพื่อ defeat theme override)
+   ======================================================== */
+
+body .markdown-rendered table strong,
+body .markdown-rendered table b,
+body .markdown-rendered table th strong,
+body .markdown-rendered table td strong,
+body .markdown-rendered table th b,
+body .markdown-rendered table td b,
+body .markdown-preview-view table strong,
+body .markdown-preview-view table b,
+body .markdown-preview-view table th strong,
+body .markdown-preview-view table td strong,
+body .markdown-preview-view table th b,
+body .markdown-preview-view table td b,
+body table strong,
+body table b,
+.theme-light table strong,
+.theme-dark table strong,
+.theme-light table b,
+.theme-dark table b {
+  color: #111827 !important;
+  font-weight: 700 !important;
+  background: transparent !important;
+  background-color: transparent !important;
+  -webkit-text-fill-color: #111827 !important;
+  -webkit-background-clip: initial !important;
+  background-clip: initial !important;
+  text-shadow: none !important;
+  filter: none !important;
+  opacity: 1 !important;
+}
+
+
+/* ========================================================
+   2. Table styling
+   ======================================================== */
+
+body .markdown-rendered table th,
+body .markdown-preview-view table th {
+  background-color: #f3f4f6 !important;
+  color: #111827 !important;
+  font-weight: 600 !important;
+  padding: 10px 14px !important;
+}
+
+body .markdown-rendered table td,
+body .markdown-preview-view table td {
+  padding: 8px 14px !important;
+  color: #1f2937 !important;
+}
+
+
+/* ========================================================
+   3. PDF Print Optimization
+   ======================================================== */
+
+@media print {
+  table strong,
+  table b,
+  table th strong,
+  table td strong,
+  table th b,
+  table td b {
+    color: #000000 !important;
+    font-weight: 700 !important;
+    -webkit-text-fill-color: #000000 !important;
+    background: transparent !important;
+    background-color: transparent !important;
+  }
+
+  table th {
+    background-color: #f3f4f6 !important;
+    color: #000000 !important;
+    font-weight: 700 !important;
+  }
+
+  table td {
+    color: #1f2937 !important;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    color: #000000 !important;
+  }
+
+  a {
+    color: #1f2937 !important;
+  }
+
+  code {
+    color: #1f2937 !important;
+    background-color: #f3f4f6 !important;
+  }
+}
+
+
+/* ========================================================
+   4. Heading hierarchy improvements
+   ======================================================== */
+
+body .markdown-rendered h1 {
+  color: #111827 !important;
+  border-bottom: 2px solid #e5e7eb;
+  padding-bottom: 8px;
+}
+
+body .markdown-rendered h2 {
+  color: #1f2937 !important;
+  border-bottom: 1px solid #e5e7eb;
+  padding-bottom: 4px;
+}
+
+body .markdown-rendered h3 {
+  color: #374151 !important;
+}

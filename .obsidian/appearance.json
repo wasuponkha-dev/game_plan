@@ -1,1 +1,9 @@
-{}
+{
+  "cssTheme": "AnuPpuccin",
+  "accentColor": "#5d76ee",
+  "theme": "moonstone",
+  "baseFontSize": 18,
+  "nativeMenus": false,
+  "enabledCssSnippets": [],
+  "baseFontSizeAction": false
+}

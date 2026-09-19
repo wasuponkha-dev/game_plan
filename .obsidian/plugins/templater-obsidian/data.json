@@ -1,0 +1,38 @@
+{
+  "command_timeout": 5,
+  "templates_folder": "_Template",
+  "templates_pairs": [
+    [
+      "",
+      ""
+    ]
+  ],
+  "trigger_on_file_creation": false,
+  "auto_jump_to_cursor": false,
+  "enable_system_commands": false,
+  "shell_path": "",
+  "user_scripts_folder": "",
+  "enable_folder_templates": false,
+  "folder_templates": [
+    {
+      "folder": "_Template",
+      "template": "_Template/Template Meeting.md"
+    },
+    {
+      "folder": "",
+      "template": ""
+    }
+  ],
+  "enable_file_templates": false,
+  "file_templates": [],
+  "syntax_highlighting": true,
+  "syntax_highlighting_mobile": false,
+  "enabled_templates_hotkeys": [
+    "_Template/CR Note.md",
+    "_Template/Daily Note.md",
+    "_Template/Meeting Note.md",
+    "_Template/template test.md"
+  ],
+  "startup_templates": [],
+  "intellisense_render": 1
+}
