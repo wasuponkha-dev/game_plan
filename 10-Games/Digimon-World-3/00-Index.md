@@ -44,6 +44,7 @@ tags: [game, digimon, ps1]
 
 - [[02-Roadmap]] — ลำดับ Leader ทั้ง 4
 - [[Missables]] — ⚠️ **เควส DNA มีเส้นตายเป็นเลเวล อ่านด่วน**
+- [[Digivolution]] · [[Items-Equipment]] · [[Enemy-Digimon]] — ข้อมูลจาก guide
 - [[Partners]] — Partner Digimon ทั้ง 8 ตัว
 - [[Collectibles]] · [[Bosses]] · [[Quests]] · [[Achievements]]
 

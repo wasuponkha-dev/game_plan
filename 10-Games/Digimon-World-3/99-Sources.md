@@ -28,3 +28,21 @@ game: "Digimon World 3"
 
 > [!caution] OCR ของ guide ไม่สมบูรณ์
 > ตารางสถิติหลายหน้าอ่านออกมาเพี้ยน — ถ้าเจอตัวเลขแปลกๆ ให้เปิด PDF หน้านั้นดูเองอีกที
+
+## สรุปจาก guide ลง vault แล้วหน้าไหนบ้าง
+
+| guide หน้า | เนื้อหา | สรุปไว้ที่ |
+|---|---|---|
+| 4–5 | Partner 8 ตัว + ตารางเควส DNA | [[Partners]] · [[Missables]] |
+| 6–15 | Locations ทุก Sector | `04-Areas/` ทั้ง 5 ไฟล์ |
+| 16–69 | Walkthrough ทั้งเกม | `01-Story/` ทั้ง 6 ไฟล์ |
+| 70–71 | Sidequests (Fishing Pole · Web · Kicking Boots) | [[Quests]] |
+| 71–76 | Partner Digivolutions | [[Digivolution]] ⚠️ OCR เพี้ยน |
+| 76–77 | Enemy Digimon stats + ของดรอป | [[Enemy-Digimon]] ⚠️ OCR สลับบรรทัด |
+| 78–80 | Items · Weapons · Armor · Accessories | [[Items-Equipment]] |
+| 81–100 | แผนที่ไดอะแกรม · Seabed · Circuit Board | [[Seabed-Circuit-Board]] ⚠️ แผนที่เป็นภาพ ต้องเปิด PDF |
+
+## หน้าที่ยังต้องเปิด PDF ดูเอง
+
+- **หน้า 71–77** — ตาราง Digivolution และ Enemy stats (ตัวเลขจาก OCR เชื่อไม่ได้)
+- **หน้า 81–100** — แผนที่ทั้งหมด (เป็นภาพไดอะแกรม)
