@@ -3,49 +3,46 @@ type: reference
 subtype: digivolution
 game: "Digimon World 3"
 partner: Kotemon
-level: 23
+level: 40
 updated: 2026-09-20
 ---
 
-# ⚔️ ผัง Digivolution — Kotemon (LV23)
+# ⚔️ ผัง Digivolution — Kotemon (LV40)
 
 > guide หน้า 73 · ✅ = ปลดแล้ว · 🔄 = กำลังสะสมเลเวลสกิล · 🔵 = ยังไม่ผ่านเงื่อนไข
 
 ## 🏆 สถานะปัจจุบัน
 
 ```
-Kotemon LV23
+Kotemon LV40
  │
- ├─ 🔄 Dinohumon .............. สกิล 66/100  ⬅ ใกล้ที่สุด
- │   └─ 🔄 Kyukimon ........... Dinohumon 50 · สกิล 28/100
- │       ├─ 🔵 GuardiAngemon .. Kyukimon 99
- │       └─ 🔵 MetalMamemon ... Kyukimon 20 + Machine 140 (มี 133 — ขาด 7 🎯)
+ ├─ ✅ Dinohumon .............. อยู่ที่ LV99
+ │   └─ ✅ Kyukimon ........... Dinohumon 50 ✓ · อยู่ที่ LV99
+ │       ├─ ✅ GuardiAngemon .. Kyukimon 99 ✓  ⭐ Mega · อยู่ที่ LV1
+ │       └─ 🔵 MetalMamemon ... Kyukimon 20 ✓ + Machine 140 (มี 133 — ขาด 7 🎯)
  │
- └─ 🔄 Greymon ................ Kotemon 15 ✓ · สกิล 20/100
+ └─ ✅ Greymon ................ Kotemon 15 ✓
      └─ 🔵 MetalGreymon ....... Greymon 40
 ```
 
-| ร่าง | เงื่อนไข | สถานะ |
+| ร่าง | เงื่อนไข | เลเวลตอนนี้ |
 |---|---|---|
-| **Dinohumon** | (สายประจำตัว) | 🔄 **สกิล 66/100** ⬅ ใกล้สุด |
-| **Kyukimon** | Dinohumon 50 | 🔄 สกิล 28/100 |
-| **Greymon** | **Kotemon 15** ✓ · หรือ Dinohumon 20 | 🔄 สกิล 20/100 |
-| **GuardiAngemon** | Kyukimon 99 | 🔵 |
+| **Dinohumon** | (สายประจำตัว) | ✅ **LV99** |
+| **Kyukimon** | Dinohumon 50 ✓ | ✅ **LV99** |
+| **GuardiAngemon** ⭐ | Kyukimon 99 ✓ | ✅ **LV1** — Mega |
+| **Greymon** | Kotemon 15 ✓ | ✅ |
+| **MetalMamemon** | Kyukimon 20 ✓ + **Machine 140** | 🔵 ขาด Machine 7 🎯 |
 
-> ⚠️ **Kotemon ตามทีมไม่ทัน** — LV23 ขณะที่ Agumon/Veemon แตะ 40 แล้ว
-> ถ้าจะใช้ต่อควรเร่ง หรือสลับ **Kumamon / Monmon / Patamon** เข้ามาปั้นแทน
-
----
-
+> 🎉 **Kotemon ตามทันทีมแล้ว** — จาก LV23 ขึ้นมา LV40 และได้ Mega ของตัวเอง
 ## 🎯 ทำอะไรได้ทันที
 
 | ลำดับ | ทำอะไร | ได้อะไร |
 |---|---|---|
 | **1** | ซื้อ **Metal Chip** (Machine +7 → 140) | ปลดเงื่อนไข **MetalMamemon** |
-| **2** | สะสมสกิล **Dinohumon** อีก 34 | Digivolve เป็น Dinohumon |
-| **3** | ปั้น Dinohumon → **LV50** | ปลด **Kyukimon** |
+| **2** | ✅ Dinohumon LV99 แล้ว | — |
+| **3** | ✅ Kyukimon LV99 แล้ว | — |
 | **4** | Kyukimon → **LV20** | ปลด MetalMamemon (สาย Machine) |
-| **5** | Kyukimon → **LV99** | 🏆 **GuardiAngemon** |
+| **5** | ✅ **GuardiAngemon ได้แล้ว** 🏆 | ปั้นต่อจาก LV1 |
 
 ---
 

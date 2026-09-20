@@ -16,35 +16,36 @@ updated: 2026-09-20
 ```
 Veemon LV40
  │
- ├─ ✅ ExVeemon ............... Veemon 5
+ ├─ ✅ ExVeemon ............... Veemon 5 ✓
  │   │
- │   ├─ ✅ Stingmon ........... ExVeemon 30
- │   │   └─ 🔄 Kabuterimon .... Stingmon 40 · สกิล 40/100
+ │   ├─ ✅ Stingmon ........... ExVeemon 30 ✓
+ │   │   └─ ✅ Kabuterimon .... Stingmon 40 ✓ · อยู่ที่ LV40
+ │   │       └─ 🔵 GranKuwagamon . Kabuterimon 40 ✓ + Imperialdramon 40
  │   │
- │   └─ ✅ Paildramon ......... Veemon 20 + Stingmon 5
+ │   └─ ✅ Paildramon ......... Veemon 20 ✓ + Stingmon 5 ✓
  │       │
- │       ├─ 🔄 MetalMamemon ... Paildramon 20 + Machine 100 ✓ · สกิล 40/100
+ │       ├─ ✅ MetalMamemon ... Paildramon 20 ✓ + Machine 100 ✓ · อยู่ที่ LV40
+ │       │   └─ 🔵 MetalGarurumon . MetalMamemon 40 ✓ + Machine 140 (มี 101 — ขาด 39)
  │       │
- │       └─ 🔄 Imperialdramon . Veemon 40 ✓ · สกิล 1/100
+ │       └─ ✅ Imperialdramon . Veemon 40 ✓  ⭐ Mega · อยู่ที่ LV1
  │           └─ 🔵 Imperialdramon-F ... Imperialdramon 99
  │               └─ 🔵 Imperialdramon-P ... +F 40 + Omnimon 40
 ```
 
-| ร่าง | เงื่อนไข | สถานะ |
+| ร่าง | เงื่อนไข | เลเวลตอนนี้ |
 |---|---|---|
-| **ExVeemon** | Veemon 5 | ✅ |
-| **Stingmon** | ExVeemon 30 | ✅ |
-| **Paildramon** ⭐ | Veemon 20 + Stingmon 5 | ✅ |
-| **Kabuterimon** | Stingmon 40 | 🔄 สกิล 40/100 |
-| **MetalMamemon** | Paildramon 20 + **Machine 100** ✓ (มี 101) | 🔄 สกิล 40/100 |
-| **Imperialdramon** | Veemon 40 | 🔄 สกิล 1/100 |
+| **ExVeemon** | Veemon 5 ✓ | ✅ |
+| **Stingmon** | ExVeemon 30 ✓ | ✅ |
+| **Paildramon** ⭐ | Veemon 20 ✓ + Stingmon 5 ✓ | ✅ |
+| **Kabuterimon** | Stingmon 40 ✓ | ✅ **LV40** |
+| **MetalMamemon** | Paildramon 20 ✓ + **Machine 100** ✓ | ✅ **LV40** |
+| **Imperialdramon** ⭐ | Veemon 40 ✓ | ✅ **LV1** — Mega |
+| **MetalGarurumon** | MetalMamemon 40 ✓ + **Machine 140** | 🔵 ขาด Machine 39 |
+| **GranKuwagamon** | Kabuterimon 40 ✓ + Imperialdramon 40 | 🔵 |
 | **Imperialdramon-F** | Imperialdramon 99 | 🔵 |
-| **Imperialdramon-P** ⭐ | Imperialdramon-F 40 **+** Omnimon 40 | 🔵 |
+| **Imperialdramon-P** ⭐ | Imperialdramon-F 40 + Omnimon 40 | 🔵 |
 
-> ⭐ **Veemon เดินสายมังกรมาไกลที่สุดในทีม** — เหลือแค่สะสมสกิล Imperialdramon
-
----
-
+> ⭐ **Veemon ผ่านเงื่อนไข MetalMamemon 40 และ Kabuterimon 40 แล้ว** — เหลือแค่ดัน Machine อีก 39 ก็ได้ **MetalGarurumon** ซึ่งเป็นครึ่งหนึ่งของ Omnimon
 ## 🎯 เส้นทางสู่ Imperialdramon-P (ร่างสูงสุด)
 
 | ขั้น | ทำอะไร |

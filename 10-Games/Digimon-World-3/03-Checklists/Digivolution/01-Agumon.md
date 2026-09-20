@@ -19,30 +19,27 @@ Agumon LV40
  ├─ ✅ Greymon ................ Agumon 5
  │   │
  │   ├─ ✅ MetalGreymon ....... Agumon 20
- │   │   └─ 🔄 WarGreymon ..... Agumon 40 ✓ · เลเวลสกิล 1/100
+ │   │   └─ ✅ WarGreymon ..... Agumon 40  ⭐ Mega · อยู่ที่ LV1
  │   │       └─ 🔵 Omnimon .... WarGreymon 40 + MetalGarurumon 40
  │   │
- │   └─ ✅ SkullGreymon ....... Greymon 50 + Dark 130 ✓ (มี 153)
- │       └─ ✅ BK WarGreymon .. SkullGreymon 99  ⭐ Mega ตัวแรก
+ │   └─ ✅ SkullGreymon ....... Greymon 50 + Dark 130 ✓ · อยู่ที่ LV99
+ │       └─ ✅ BK WarGreymon .. SkullGreymon 99 ✓  ⭐ Mega · อยู่ที่ LV3
  │
  └─ 🔵 สายอื่นๆ (ดูด้านล่าง)
 ```
 
-| ร่าง | เงื่อนไข | สถานะ |
+| ร่าง | เงื่อนไข | เลเวลตอนนี้ |
 |---|---|---|
 | **Greymon** | Agumon 5 | ✅ |
 | **MetalGreymon** | Agumon 20 | ✅ |
-| **SkullGreymon** | Greymon 50 + **Dark 130** | ✅ (Dark 153) |
-| **BK WarGreymon** ⭐ | SkullGreymon 99 | ✅ **ได้แล้ว** |
-| **WarGreymon** | Agumon 40 | 🔄 สกิล 1/100 |
-| **Omnimon** ⭐ | WarGreymon 40 **+** MetalGarurumon 40 | 🔵 |
-
----
-
+| **SkullGreymon** | Greymon 50 + **Dark 130** ✓ (มี 153) | ✅ **LV99** |
+| **BK WarGreymon** ⭐ | SkullGreymon 99 ✓ | ✅ **LV3** |
+| **WarGreymon** ⭐ | Agumon 40 ✓ | ✅ **LV1** |
+| **Omnimon** ⭐ | WarGreymon **40** + MetalGarurumon **40** | 🔵 |
 ## 🎯 เส้นทางสู่ Omnimon — เหลืออีกกี่ขั้น
 
 ```
-[1] 🔄 WarGreymon สกิลถึง 100 → Digivolve ได้
+[1] ✅ WarGreymon ได้แล้ว — อยู่ที่ LV1
      │
 [2]  ├─ ปั้น WarGreymon ถึง LV10 ──→ ปลด MetalMamemon
      │   │
@@ -55,7 +52,7 @@ Agumon LV40
 
 | ขั้น | ทำอะไร | ได้อะไร |
 |---|---|---|
-| 1 | สะสมเลเวลสกิล WarGreymon → 100 | Digivolve เป็น WarGreymon ได้ |
+| 1 | ✅ **WarGreymon ได้แล้ว** (LV1) | — |
 | 2 | WarGreymon → **LV10** | ปลด MetalMamemon |
 | 3 | MetalMamemon → **LV40** | ปลด MetalGarurumon |
 | 4 | MetalGarurumon → **LV40** | ครึ่งเงื่อนไข Omnimon |
