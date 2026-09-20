@@ -111,17 +111,17 @@ Veemon LV40
 | **Phoenixmon** | Rosemon 99 | |
 
 ### ซามูไร / มืด ✅ Dark ผ่านแล้ว
-| ร่าง | เงื่อนไข | สถานะ |
-|---|---|---|
-| **Devimon** | Paildramon 25 + **Dark 160** | ✅ Dark 164 — รอ Paildramon LV25 |
-| **Myotismon** | Devimon 40 | |
-| **MaloMyotismon** | Myotismon 99 | |
-| **Beelzemon** ⭐ | MaloMyotismon 40 **+** Gallantmon 40 | |
-| **Dinohumon** | (ผ่าน Imperialdramon) | |
-| **Kyukimon** | Dinohumon 50 | |
-| **GuardiAngemon** | Kyukimon 99 | |
-| **GranKuwagamon** | Imperialdramon 40 **+** Kabuterimon 40 | |
-| **Diaboromon** 👑 | GranKuwagamon 99 **+** BK WarGreymon 99 | |
+| ร่าง              | เงื่อนไข                                | สถานะ                           |
+| ----------------- | --------------------------------------- | ------------------------------- |
+| **Devimon**       | Paildramon 25 + **Dark 160**            | ✅ Dark 164 — รอ Paildramon LV25 |
+| **Myotismon**     | Devimon 40                              |                                 |
+| **MaloMyotismon** | Myotismon 99                            |                                 |
+| **Beelzemon** ⭐   | MaloMyotismon 40 **+** Gallantmon 40    |                                 |
+| **Dinohumon**     | (ผ่าน Imperialdramon)                   |                                 |
+| **Kyukimon**      | Dinohumon 50                            |                                 |
+| **GuardiAngemon** | Kyukimon 99                             |                                 |
+| **GranKuwagamon** | Imperialdramon 40 **+** Kabuterimon 40  |                                 |
+| **Diaboromon** 👑 | GranKuwagamon 99 **+** BK WarGreymon 99 |                                 |
 
 ---
 
