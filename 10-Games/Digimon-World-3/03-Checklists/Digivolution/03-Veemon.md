@@ -65,57 +65,57 @@ Veemon
 
 ## สาย Machine
 
-| ร่าง | เงื่อนไข |
-|---|---|
-| **MetalMamemon** | Paildramon 20 **+ Machine 100** |
+| ร่าง               | เงื่อนไข                          |
+| ------------------ | --------------------------------- |
+| **MetalMamemon**   | Paildramon 20 **+ Machine 100**   |
 | **MetalGarurumon** | MetalMamemon 40 **+ Machine 140** |
-| **MegaGargomon** | MetalGarurumon 99 |
-| **Hookmon** | Imperialdramon 35 **+ Machine** |
-| **Armormon** | Hookmon 50 |
-| **Cannondramon** | Armormon 99 |
+| **MegaGargomon**   | MetalGarurumon 99                 |
+| **Hookmon**        | Imperialdramon 35 **+ Machine**   |
+| **Armormon**       | Hookmon 50                        |
+| **Cannondramon**   | Armormon 99                       |
 
 ## สายอัศวิน / สัตว์
 
-| ร่าง | เงื่อนไข |
-|---|---|
-| **Growlmon** | Paildramon 30 **+ Fire 90** |
-| **WarGrowlmon** | Growlmon 50 |
-| **Gallantmon** | WarGrowlmon 99 |
-| **Grizzmon** | Imperialdramon 45 **+ Defense** |
-| **GrapLeomon** | Grizzmon 50 |
-| **Marsmon** | GrapLeomon 99 |
+| ร่าง            | เงื่อนไข                        |
+| --------------- | ------------------------------- |
+| **Growlmon**    | Paildramon 30 **+ Fire 90**     |
+| **WarGrowlmon** | Growlmon 50                     |
+| **Gallantmon**  | WarGrowlmon 99                  |
+| **Grizzmon**    | Imperialdramon 45 **+ Defense** |
+| **GrapLeomon**  | Grizzmon 50                     |
+| **Marsmon**     | GrapLeomon 99                   |
 
 ## สายเวท
 
-| ร่าง | เงื่อนไข |
-|---|---|
-| **Kyubimon** | Paildramon 40 **+ Ice 200** |
-| **Taomon** | Kyubimon 50 |
-| **Sakuyamon** | Taomon 99 |
+| ร่าง            | เงื่อนไข                             |
+| --------------- | ------------------------------------ |
+| **Kyubimon**    | Paildramon 40 **+ Ice 200**          |
+| **Taomon**      | Kyubimon 50                          |
+| **Sakuyamon**   | Taomon 99                            |
 | **Digitamamon** | Imperialdramon 20 **+ Intelligence** |
 
 ## สายเทวดา
 
-| ร่าง | เงื่อนไข |
-|---|---|
-| **Angemon** | Paildramon 45 **+ Intelligence 230** |
-| **MagnaAngemon** | Angemon 50 |
-| **Seraphimon** | MagnaAngemon 99 |
-| **Angewomon** | MagnaAngemon 20 |
-| **Rosemon** | Angewomon 40 |
-| **Phoenixmon** | Rosemon 99 |
+| ร่าง             | เงื่อนไข                             |
+| ---------------- | ------------------------------------ |
+| **Angemon**      | Paildramon 45 **+ Intelligence 230** |
+| **MagnaAngemon** | Angemon 50                           |
+| **Seraphimon**   | MagnaAngemon 99                      |
+| **Angewomon**    | MagnaAngemon 20                      |
+| **Rosemon**      | Angewomon 40                         |
+| **Phoenixmon**   | Rosemon 99                           |
 
 ## สายซามูไร / มืด
 
-| ร่าง | เงื่อนไข |
-|---|---|
-| **Dinohumon** | (ผ่าน Imperialdramon) |
-| **Kyukimon** | Dinohumon 50 |
-| **GuardiAngemon** | Kyukimon 99 |
-| **Devimon** | Paildramon 25 **+ Dark 160** |
-| **Myotismon** | Devimon 40 |
-| **MaloMyotismon** | Myotismon 99 |
-| **Beelzemon** ⭐ | MaloMyotismon 40 **+** Gallantmon 40 |
+| ร่าง              | เงื่อนไข                             |
+| ----------------- | ------------------------------------ |
+| **Dinohumon**     | (ผ่าน Imperialdramon)                |
+| **Kyukimon**      | Dinohumon 50                         |
+| **GuardiAngemon** | Kyukimon 99                          |
+| **Devimon**       | Paildramon 25 **+ Dark 160**         |
+| **Myotismon**     | Devimon 40                           |
+| **MaloMyotismon** | Myotismon 99                         |
+| **Beelzemon** ⭐   | MaloMyotismon 40 **+** Gallantmon 40 |
 
 ---
 
