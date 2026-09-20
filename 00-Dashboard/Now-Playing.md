@@ -27,7 +27,7 @@ SORT completion DESC
 
 | เกม | สถานะ | % | เครื่อง | เล่นล่าสุด | ค้างอยู่ตรงไหน |
 |---|---|---|---|---|---|
-| [[10-Games/Digimon-World-3/00-Index|Digimon World 3]] | กำลังเล่น | ? | PS1 | 2026-09-19 | ชนะ Byakko Leader (Badge 3/4) |
+| [[10-Games/Digimon-World-3/00-Index|Digimon World 3]] | กำลังเล่น | ? | PS1 | 2026-09-20 | Badge 3/4 · Partner ครบ 8/8 ✅ |
 
 ## ⚠️ เตือนของพลาดที่ใกล้ถึง
 

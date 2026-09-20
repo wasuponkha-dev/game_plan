@@ -8,20 +8,20 @@ game: "Digimon World 3"
 
 > จาก guide หน้า 80 (ตาราง Where / Who / What) · **ตารางที่มีค่าที่สุดของทั้งเล่ม**
 
-## ⭐ Digital DNA — ของที่ใช้แลก Partner ใหม่ (8 อัน)
+## ✅ Digital DNA — เก็บครบแล้วทั้ง 8 🎉
 
 > **กลไก:** รับเควสจาก DRI (ต้องอยู่ในช่วงเลเวล) → ไปล้ม Digimon ที่กำหนด → ได้ DDNA → เอากลับไปส่ง
 
 | DDNA | ต้องล้มใคร | อยู่ที่ไหน | ได้แล้ว |
 |---|---|---|---|
-| **Agumon DDNA** | MetalGreymon | **Bulk Swamp** (Asuka South) | [ ] |
-| **Guilmon DDNA** | WarGrowlmon | **Ether Jungle** (Asuka South) | [ ] |
+| **Agumon DDNA** | MetalGreymon | **Bulk Swamp** (Asuka South) | [x] |
+| **Guilmon DDNA** | WarGrowlmon | **Ether Jungle** (Asuka South) | [x] |
 | **Patamon DDNA** | MagnaAngemon | **South Badland** (Asuka West) | [ ] |
 | **Renamon DDNA** | Taomon | **North Badland W** (Asuka West) | [ ] |
 | **Kotemon DDNA** | Kyukimon | **Suzaku UG Lake** (Asuka South) | [ ] |
-| **Monmon DDNA** | Armormon | **Duel Island** (Asuka East) | [ ] |
-| **Kumamon DDNA** | GrapLeomon | **Ether Jungle** (Asuka South) | [ ] |
-| **Veemon DDNA** | Paildramon | **Bulk Bridge** (Asuka South) | [ ] |
+| **Monmon DDNA** | Armormon | **Duel Island** (Asuka East) | [x] |
+| **Kumamon DDNA** | GrapLeomon | **Ether Jungle** (Asuka South) | [x] |
+| **Veemon DDNA** | Paildramon | **Bulk Bridge** (Asuka South) | [x] |
 
 > [!note] guide ขัดกันเองเรื่อง Veemon
 > หน้า 4 บอกว่า Veemon "ได้จาก Card Battle เท่านั้น" แต่ตารางนี้บอกว่ามี **Veemon DDNA จาก Paildramon ที่ Bulk Bridge**
@@ -88,3 +88,21 @@ game: "Digimon World 3"
 Multiple Board · Searcher Board · Counter Board · Binder Board · Recovery Board · EXP Adapter · BIT Adapter · MP Proxy · MP Megaproxy · HP Proxy · HP Megaproxy · Hacker Tool · Hacker System · Overclock · Overload · Hit Glasses · Hit Goggles · Dancer Feather · Dancer Wing · Runner Sandals · Runner Shoes · Fire Power 1 · Fire Power 2
 
 > ตัวที่ดรอปจากศัตรูดูได้ที่ [[Enemy-Digimon]]
+
+---
+
+## 🏆 Asuka Trophy
+
+> ⚠️ **guide ไม่มีข้อมูลเรื่องนี้เลย** — บันทึกจากที่เจอในเกมจริง
+
+| หัวข้อ | รายละเอียด |
+|---|---|
+| **ได้จาก** | **KingDivermon** |
+| **ที่ไหน** | **Duel Island** (Asuka East — เรียก Submarimon จาก Divermon's Lake) |
+| **เกี่ยวกับ** | สาย **Card Battle** — น่าจะเป็นรางวัลแชมป์ของ Asuka Server |
+| **ได้แล้ว** | [x] 2026-09-20 |
+
+**ที่ยังไม่รู้:**
+- [ ] มี Trophy ของ Amaterasu Server ด้วยไหม
+- [ ] Trophy ใช้ทำอะไรต่อ / ปลดล็อกอะไร
+- [ ] เกี่ยวกับการนับ 100% ไหม

@@ -6,7 +6,7 @@ genre: "JRPG / Monster Collector"
 status: playing
 completion: 0
 playtime: 0
-chapter: "ชนะ Byakko Leader (Leader คนที่ 3) แล้ว"
+chapter: "ชนะ Byakko Leader (Badge 3/4) · Partner ครบ 8/8"
 started_date: 
 completed_date: 
 rating: 
@@ -18,8 +18,8 @@ tags: [game, digimon, ps1]
 
 > [!abstract] เปิดมาอ่านตรงนี้ก่อน
 > **เนื้อเรื่องถึง:** ชนะ Byakko Leader แล้ว (Badge ใบที่ 3) → ต่อไป Genbu Leader
-> **ทำต่อ:** ไป Mobius Desert **รับ** เควส DNA → ล้ม GrapLeomon (Ether Jungle) + Armormon (Duel Island) = ครบ 8 ตัว
-> **✅ ปลอดภัย:** เลเวลรวมนับแค่ 3 ตัวในทีม = **69** · สลับทีมคุมช่วงเลเวลได้ · ฟาร์มได้ตามสบาย
+> **ทำต่อ:** เดินเนื้อเรื่องต่อ → Dum Dum Factory หา Numemon · ระหว่างทางสะสมเลเวลสกิล (Greymon 94/100)
+> **✅ Partner ครบ 8/8** — ไม่มีเส้นตายเลเวลอีกแล้ว ฟาร์มได้เต็มที่
 > **เซฟไว้ที่:** 
 
 ## ความคืบหน้า
@@ -27,8 +27,8 @@ tags: [game, digimon, ps1]
 | หมวด | เก็บได้ | ทั้งหมด | % |
 |---|---|---|---|
 | Sector Badge | 3 | 4 | 75% |
-| Partner Digimon | **6** | 8 | **75%** |
-| เควส DNA (รับ Partner) | 3 | 8 | เหลือเก็บ Kumamon + Monmon |
+| Partner Digimon | **8** | 8 | **100%** ✅ |
+| เควส DNA | ✅ | — | **เก็บครบแล้ว ไม่มี missable เหลือ** |
 | Digivolution | ? | ~350 | ? |
 | การ์ด (Card Battle) | ? | ? | ? |
 | **รวม** | | | **?%** |
