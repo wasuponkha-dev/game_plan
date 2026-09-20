@@ -3,41 +3,75 @@ type: reference
 subtype: digivolution
 game: "Digimon World 3"
 partner: Kotemon
+level: 23
+updated: 2026-09-20
 ---
 
-# ⚔️ ผัง Digivolution — Kotemon
+# ⚔️ ผัง Digivolution — Kotemon (LV23)
 
-> guide หน้า 73 · **สายถนัด: Dinohumon → Greymon** (สมดุลที่สุด ไม่มีจุดอ่อนใหญ่)
+> guide หน้า 73 · ✅ = ปลดแล้ว · 🔄 = กำลังสะสมเลเวลสกิล · 🔵 = ยังไม่ผ่านเงื่อนไข
 
-## สายซามูไร (สายประจำตัว)
+## 🏆 สถานะปัจจุบัน
 
 ```
-Kotemon
- └─ Dinohumon ............. MetalGreymon 30  ※ guide หน้า 5 ระบุว่าเป็นร่างแรกของ Kotemon
-     └─ Kyukimon .......... Dinohumon 50
-         └─ GuardiAngemon . Kyukimon 99
+Kotemon LV23
+ │
+ ├─ 🔄 Dinohumon .............. สกิล 66/100  ⬅ ใกล้ที่สุด
+ │   └─ 🔄 Kyukimon ........... Dinohumon 50 · สกิล 28/100
+ │       ├─ 🔵 GuardiAngemon .. Kyukimon 99
+ │       └─ 🔵 MetalMamemon ... Kyukimon 20 + Machine 140 (มี 133 — ขาด 7 🎯)
+ │
+ └─ 🔄 Greymon ................ Kotemon 15 ✓ · สกิล 20/100
+     └─ 🔵 MetalGreymon ....... Greymon 40
 ```
 
-| ร่าง | เงื่อนไข |
-|---|---|
-| **Dinohumon** | MetalGreymon 30 ※ |
-| **Kyukimon** | Dinohumon 50 |
-| **GuardiAngemon** | Kyukimon 99 |
+| ร่าง | เงื่อนไข | สถานะ |
+|---|---|---|
+| **Dinohumon** | (สายประจำตัว) | 🔄 **สกิล 66/100** ⬅ ใกล้สุด |
+| **Kyukimon** | Dinohumon 50 | 🔄 สกิล 28/100 |
+| **Greymon** | **Kotemon 15** ✓ · หรือ Dinohumon 20 | 🔄 สกิล 20/100 |
+| **GuardiAngemon** | Kyukimon 99 | 🔵 |
 
-> ※ guide หน้า 5 บอกว่า Kotemon "เริ่มด้วย Dinohumon" — น่าจะมีทางตรงจาก Kotemon เลเวลต่ำที่ผังไม่ได้พิมพ์ไว้ ให้ลองเช็คในเกม
+> ⚠️ **Kotemon ตามทีมไม่ทัน** — LV23 ขณะที่ Agumon/Veemon แตะ 40 แล้ว
+> ถ้าจะใช้ต่อควรเร่ง หรือสลับ **Kumamon / Monmon / Patamon** เข้ามาปั้นแทน
+
+---
+
+## 🎯 ทำอะไรได้ทันที
+
+| ลำดับ | ทำอะไร | ได้อะไร |
+|---|---|---|
+| **1** | ซื้อ **Metal Chip** (Machine +7 → 140) | ปลดเงื่อนไข **MetalMamemon** |
+| **2** | สะสมสกิล **Dinohumon** อีก 34 | Digivolve เป็น Dinohumon |
+| **3** | ปั้น Dinohumon → **LV50** | ปลด **Kyukimon** |
+| **4** | Kyukimon → **LV20** | ปลด MetalMamemon (สาย Machine) |
+| **5** | Kyukimon → **LV99** | 🏆 **GuardiAngemon** |
+
+---
 
 ## สาย Greymon
 
 | ร่าง | เงื่อนไข |
 |---|---|
-| **Greymon** | **Kotemon 15** · หรือ Dinohumon 20 |
+| **Greymon** | Kotemon 15 ✓ · หรือ Dinohumon 20 |
 | **MetalGreymon** | Greymon 40 |
 | **WarGreymon** | MetalGreymon 99 |
-| **SkullGreymon** | Greymon 50 **+ Dark 140** |
-| **BlackWarGreymon** | SkullGreymon 99 |
+| **SkullGreymon** | Greymon 50 + **Dark 140** (มี 132 — ขาด 8) |
+| **BK WarGreymon** | SkullGreymon 99 |
 | **Omnimon** ⭐ | WarGreymon 40 **+** MetalGarurumon 40 |
 
-## สาย Veemon (มังกร)
+## สาย Machine
+
+| ร่าง | เงื่อนไข | สถานะ |
+|---|---|---|
+| **MetalMamemon** | Kyukimon 20 + **Machine 140** | Machine 133 — **ขาด 7** 🎯 |
+| **MetalGarurumon** | MetalMamemon 40 + **Machine 200** | ขาด 67 |
+| **MegaGargomon** | MetalGarurumon 99 | |
+| **Hookmon** | Growlmon 20 | |
+| **Armormon** | Hookmon 50 | |
+| **Cannondramon** | Armormon 99 | |
+
+## สายมังกร
 
 | ร่าง | เงื่อนไข |
 |---|---|
@@ -49,74 +83,50 @@ Kotemon
 
 ## สายเวท
 
+| ร่าง | เงื่อนไข | สถานะ |
+|---|---|---|
+| **Kyubimon** | GuardiAngemon 20 | ปลายสายซามูไร |
+| **Taomon** | Kyubimon 40 | |
+| **Sakuyamon** | Taomon 99 | |
+| **Digitamamon** | Taomon 40 + **Intelligence 280** | Wisdom 184 — ขาด 96 |
+
+## สายอัศวิน / สัตว์ ✅ Speed ผ่านแล้ว
+
+| ร่าง | เงื่อนไข | สถานะ |
+|---|---|---|
+| **Growlmon** | Taomon 50 + **Fire 200** | Fire 103 — ขาด 97 |
+| **WarGrowlmon** | Growlmon 50 | |
+| **Gallantmon** | WarGrowlmon 99 | |
+| **Grizzmon** | Growlmon 30 + **Speed 280** | ✅ Speed 689 |
+| **GrapLeomon** | Grizzmon 50 | |
+| **Marsmon** | GrapLeomon 99 | |
+
+## สายเทวดา / แมลง / มืด
+
 | ร่าง | เงื่อนไข |
 |---|---|
-| **Kyubimon** | GuardiAngemon 20 |
-| **Taomon** | Kyubimon 40 |
-| **Sakuyamon** | Taomon 99 |
-| **Digitamamon** | Taomon 40 **+ Intelligence 280** |
-
-## สายเทวดา
-
-| ร่าง | เงื่อนไข |
-|---|---|
-| **Angemon** | (ร่างก่อนหน้า) 30 **+ Wind** |
+| **Angemon** | (ร่างก่อนหน้า) 30 + Wind |
 | **MagnaAngemon** | Angemon 50 |
 | **Seraphimon** | MagnaAngemon 99 |
-| **Angewomon** | Taomon 20 **+ Water** |
+| **Angewomon** | Taomon 20 + Water |
 | **Rosemon** | Angewomon 40 |
 | **Phoenixmon** | Rosemon 99 |
-
-## สายอัศวิน (Growlmon)
-
-| ร่าง | เงื่อนไข |
-|---|---|
-| **Growlmon** | Taomon 50 **+ Fire 200** |
-| **WarGrowlmon** | Growlmon 50 |
-| **Gallantmon** | WarGrowlmon 99 |
-
-## สาย Machine
-
-| ร่าง | เงื่อนไข |
-|---|---|
-| **MetalMamemon** | Kyukimon 20 **+ Machine 140** |
-| **MetalGarurumon** | MetalMamemon 40 **+ Machine 200** |
-| **MegaGargomon** | MetalGarurumon 99 |
-| **Hookmon** | Growlmon 20 |
-| **Armormon** | Hookmon 50 |
-| **Cannondramon** | Armormon 99 |
-
-## สายสัตว์
-
-| ร่าง | เงื่อนไข |
-|---|---|
-| **Grizzmon** | Growlmon 30 **+ Speed 280** |
-| **GrapLeomon** | Grizzmon 50 |
-| **Marsmon** | GrapLeomon 99 |
-
-## สายแมลง / มืด
-
-| ร่าง | เงื่อนไข |
-|---|---|
 | **Stingmon** | (ร่างก่อนหน้า) 10 |
 | **Kabuterimon** | Stingmon 50 |
 | **GranKuwagamon** | Kabuterimon 40 |
-| **Diaboromon** ⭐ | GranKuwagamon 99 **+** BlackWarGreymon 99 **+** Imperialdramon 40 |
+| **Diaboromon** 👑 | GranKuwagamon 99 + BK WarGreymon 99 + Imperialdramon 40 |
 | **Devimon** | Digitamamon 20 |
 | **Myotismon** | Devimon 40 |
 | **MaloMyotismon** | Myotismon 99 |
-| **Beelzemon** ⭐ | MaloMyotismon 40 **+** Gallantmon 40 |
+| **Beelzemon** ⭐ | MaloMyotismon 40 + Gallantmon 40 |
 
 ---
 
-## 🎯 แผนของ Kotemon ตอนนี้ (LV23)
+## 🔑 ทางลัดที่ทำได้ทันที
 
-ผ่านเงื่อนไขแล้ว: **Dinohumon** · **Greymon** — เช็คเลเวลสกิลในเมนูว่าถึง 100 หรือยัง
+| ซื้อ Chip | ราคา | ปลดอะไร |
+|---|---|---|
+| **Metal Chip** (Machine +7) | 2,600 | **MetalMamemon** 🎯 ถูกที่สุด |
+| Devil Chip (Dark +8) | 2,800 | SkullGreymon |
 
-| เป้าหมายถัดไป | ต้องทำอะไร |
-|---|---|
-| **Kyukimon** | ปั้น **Dinohumon ถึง LV50** |
-| **MetalGreymon** | ปั้น **Greymon ถึง LV40** |
-| **Kyubimon** | ต้องได้ GuardiAngemon ก่อน (ปลายสายซามูไร) |
-
-> 💡 Kotemon ใส่ **Shiratorimaru** (คาตานะ) อยู่แล้ว — ถูกทางที่สุด เพราะคาตานะเป็นอาวุธที่ Kotemon ใช้ได้คนเดียว
+> 💡 Kotemon ใส่ **Shiratorimaru** (คาตานะ) อยู่แล้ว — อาวุธที่ Kotemon ใช้ได้คนเดียว สายนี้ยาวถึง **Fuujin Blade**
