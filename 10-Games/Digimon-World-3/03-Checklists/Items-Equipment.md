@@ -110,3 +110,31 @@ VB (ไฟ) · DS (น้ำ) · NSo (น้ำแข็ง) · WG (ลม) · N
 - [ ] ⭐ อัปเกรดกับช่างที่ **Kulon Weapons** (Kulon Pit) ให้ถึงขั้นสุด
 - [ ] Booster Pack ครบ 36 แบบ
 - [ ] Auction Items ครบ (ประมูลที่ Cargo Tower)
+
+---
+
+## 🏪 ร้านค้าอยู่ที่ไหนบ้าง
+
+> ⚠️ **guide ไม่ได้ระบุว่าร้านไหนขาย Chip** — บอกแค่ว่าเมืองหลักทุกเมืองมี shopkeeper
+> ตารางนี้รวมร้านที่รู้ ให้เติมว่าเจออะไรที่ไหนเมื่อไปถึง
+
+| ร้าน | ที่ไหน | ขายอะไร (เท่าที่รู้) | มี Chip ไหม |
+|---|---|---|---|
+| **Smith's Store** | Asuka City | ร้านหลัก · Bamboo Spear | ❓ |
+| **Black Market** 🔒 | ในร้าน Smith's — ต้องเป็นสมาชิก **El Dorado** | "ของแรงที่ Smith โชว์เฉพาะลูกค้าพิเศษ" | ❓ น่าจะมี |
+| **ร้านใน Seiryu City** | Seiryu City (East) | ⭐ guide ยืนยันว่า**อาวุธ/เกราะดีกว่าที่ Asuka** | ❓ |
+| **ร้านใน Suzaku City** | Suzaku City (South) | shopkeepers ทั่วไป | ❓ |
+| **ร้านใน Byakko City** | Byakko City (West) | เคยปิดตอน AoA ยึด — **น่าจะเปิดแล้ว** | ❓ |
+| **ร้านใน Genbu City** | 🔒 Genbu City (North) | shopkeepers ทั่วไป | ❓ |
+| **Armory** | Mirage Tower (West) | อาวุธ/เกราะ | ❓ |
+| 🔨 **Kulon Weapons** | 🔒 Kulon Pit (North) | ⭐ **อัปเกรดอาวุธขั้นสุด** (ใช้ Rusty weapons) | ไม่ใช่ร้านขาย |
+| 💰 **การประมูลของ Mr. Smith** | ชั้นใต้ดิน Cargo Tower (Asuka) | ของหายาก เปลี่ยนเรื่อยๆ | ❓ |
+
+### แนะนำให้ลองตามลำดับ
+
+1. **Byakko City** — ใกล้ที่สุดตอนนี้ และร้านเพิ่งกลับมาเปิดหลังไล่ AoA
+2. **Smith's Store + Black Market** (Asuka City) — น่าจะมีของครบสุด
+3. **Seiryu City** — guide ยืนยันว่าของดีกว่า Asuka
+
+> 💡 **ถ้าหา Chip ซื้อไม่เจอ ฟาร์มเอาได้** — Digimon หลายตัวดรอป Chip ให้ ดู [[Enemy-Digimon]]
+> เช่น **Metal Chip** ← Musyamon (Wind Prairie · Tyranno Valley ฝั่ง Amaterasu) · **Power Chip** ← Betamon (Shell Beach · Plug Cape)
