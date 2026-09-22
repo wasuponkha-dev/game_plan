@@ -144,3 +144,40 @@ Agumon LV40
 | **Intelli Chip** (Wisdom +6) | 2,100 | **Angemon** — เปิดสายเทวดาทั้งสาย |
 | Armor Chip ×หลายอัน (Defense +49) | 2,000/อัน | Grizzmon — เปิดสายสัตว์ |
 | Devil Chip (Dark +97) | 2,800 | Devimon — เปิดสายมืด |
+
+---
+
+## 👑 Agumon ทำ Diaboromon ได้ไหม?
+
+```
+Diaboromon = GranKuwagamon 99 + BK WarGreymon 99 + Imperialdramon 40
+```
+
+> ⚠️ **เงื่อนไขเป็นของ Partner แต่ละตัวแยกกัน** — ยืม BK WarGreymon ของ Agumon ไปให้ Veemon ไม่ได้ และกลับกันก็ไม่ได้
+
+| ชิ้นส่วน | Agumon | Veemon |
+|---|---|---|
+| **BK WarGreymon** | ✅ **มีแล้ว** (LV3) | 🔵 ต้องไล่ Greymon → SkullGreymon (สเตตัสผ่านแล้ว) |
+| **GranKuwagamon** | 🔵 ต้องไล่ Stingmon → Kabuterimon (Speed 799 ✅ ผ่าน) | ✅ **มีแล้ว** |
+| **Imperialdramon** | ⚠️ **ติดหนัก** — ต้อง ExVeemon ซึ่งขอ **Ice 320** (มี 74 — ขาด 246) | ✅ **มีแล้ว** |
+
+### สรุป: ใครควรทำ Diaboromon
+
+**🥇 Veemon** — เงื่อนไขสเตตัสผ่านหมดแล้ว เหลือแค่ปั้นเลเวลไล่สาย Greymon → SkullGreymon → BK WarGreymon
+
+**🥈 Agumon** — มี BK WarGreymon แล้วก็จริง แต่ติด **Ice 320** สำหรับ ExVeemon ซึ่งต้องซื้อ Ice Chip จำนวนมาก (ขาด 246 แต้ม)
+
+> 💡 **ถ้าอยากได้ Diaboromon สองตัว** ก็ทำทั้งคู่ได้ — แต่เริ่มที่ Veemon ก่อนเพราะถูกกว่ามาก
+
+### แต่ Agumon เหมาะกับ Omnimon มากกว่า
+
+```
+Omnimon = WarGreymon 40 + MetalGarurumon 40
+```
+
+| ชิ้นส่วน | Agumon |
+|---|---|
+| **WarGreymon** | ✅ มีแล้ว (LV1) — ปั้นถึง 40 |
+| **MetalGarurumon** | 🔵 ผ่าน `WarGreymon 10` → MetalMamemon → LV40 |
+
+> ⭐ **Agumon ไปถึง Omnimon ได้ด้วยสายของตัวเองล้วนๆ ไม่ติดสเตตัสอะไรเลย** — นี่คืองานที่เหมาะกับ Agumon
