@@ -4,6 +4,7 @@ subtype: digivolution
 game: "Digimon World 3"
 partner: Agumon
 level: 40
+wargreymon_level: 99
 updated: 2026-09-20
 ---
 
@@ -19,47 +20,46 @@ Agumon LV40
  ├─ ✅ Greymon ................ Agumon 5
  │   │
  │   ├─ ✅ MetalGreymon ....... Agumon 20
- │   │   └─ ✅ WarGreymon ..... Agumon 40  ⭐ Mega · อยู่ที่ LV1
- │   │       └─ 🔵 Omnimon .... WarGreymon 40 + MetalGarurumon 40
+ │   │   └─ ✅ WarGreymon ..... Agumon 40 ✓  ⭐ Mega · **LV99** 🔝
+ │   │       │
+ │   │       ├─ ✅ MetalMamemon ... WarGreymon 10 ✓ (ผ่านไปนานแล้ว)
+ │   │       │   └─ 🔵 MetalGarurumon ... MetalMamemon 40
+ │   │       │       └─ 🔵 MegaGargomon ... MetalGarurumon 99
+ │   │       │
+ │   │       └─ 🔵 Omnimon .... WarGreymon 40 ✅ + MetalGarurumon 40 🔵
  │   │
- │   └─ ✅ SkullGreymon ....... Greymon 50 + Dark 130 ✓ · อยู่ที่ LV99
- │       └─ ✅ BK WarGreymon .. SkullGreymon 99 ✓  ⭐ Mega · อยู่ที่ LV3
+ │   └─ ✅ SkullGreymon ....... Greymon 50 + Dark 130 ✓ · LV99
+ │       └─ ✅ BK WarGreymon .. SkullGreymon 99 ✓  ⭐ Mega · LV3
  │
- └─ 🔵 สายอื่นๆ (ดูด้านล่าง)
+ └─ ✅ Growlmon ............... Greymon 20 ✓
+     └─ 🔵 WarGrowlmon ........ Growlmon 40
 ```
 
-| ร่าง | เงื่อนไข | เลเวลตอนนี้ |
+| ร่าง | เงื่อนไข | สถานะ |
 |---|---|---|
-| **Greymon** | Agumon 5 | ✅ |
-| **MetalGreymon** | Agumon 20 | ✅ |
-| **SkullGreymon** | Greymon 50 + **Dark 130** ✓ (มี 153) | ✅ **LV99** |
-| **BK WarGreymon** ⭐ | SkullGreymon 99 ✓ | ✅ **LV3** |
-| **WarGreymon** ⭐ | Agumon 40 ✓ | ✅ **LV1** |
-| **Omnimon** ⭐ | WarGreymon **40** + MetalGarurumon **40** | 🔵 |
-## 🎯 เส้นทางสู่ Omnimon — เหลืออีกกี่ขั้น
+| **Greymon** · **MetalGreymon** · **Growlmon** | — | ✅ |
+| **SkullGreymon** | Greymon 50 + Dark 130 ✓ | ✅ **LV99** |
+| **BK WarGreymon** ⭐ | SkullGreymon 99 ✓ | ✅ LV3 |
+| **WarGreymon** ⭐ | Agumon 40 ✓ | ✅ **LV99** 🔝 |
+| **MetalMamemon** | WarGreymon 10 ✓ | ✅ ปลดแล้ว |
+| **MetalGarurumon** | MetalMamemon **40** | 🔵 ⬅ **งานถัดไป** |
+| **Omnimon** 🏆 | WarGreymon 40 ✅ **+** MetalGarurumon 40 | 🔵 เหลือชิ้นเดียว! |
+
+> 🔥 **WarGreymon LV99 เกินเงื่อนไข Omnimon (40) ไปไกลแล้ว** — เหลือแค่ MetalGarurumon อย่างเดียว
+## 🎯 เส้นทางสู่ Omnimon — เหลือขั้นเดียว!
 
 ```
-[1] ✅ WarGreymon ได้แล้ว — อยู่ที่ LV1
-     │
-[2]  ├─ ปั้น WarGreymon ถึง LV10 ──→ ปลด MetalMamemon
-     │   │
-[3]  │   └─ MetalMamemon LV40 ──→ ปลด MetalGarurumon
-     │       │
-[4]  │       └─ MetalGarurumon LV40 ─┐
-     │                                │
-[5]  └─ ปั้น WarGreymon ถึง LV40 ────┴──→ 🏆 Omnimon
+✅ WarGreymon LV99 ──────────────────────────┐
+                                             ├──→ 🏆 Omnimon
+🔵 MetalMamemon ──LV40──→ MetalGarurumon ──LV40──┘
 ```
 
-| ขั้น | ทำอะไร | ได้อะไร |
-|---|---|---|
-| 1 | ✅ **WarGreymon ได้แล้ว** (LV1) | — |
-| 2 | WarGreymon → **LV10** | ปลด MetalMamemon |
-| 3 | MetalMamemon → **LV40** | ปลด MetalGarurumon |
-| 4 | MetalGarurumon → **LV40** | ครึ่งเงื่อนไข Omnimon |
-| 5 | WarGreymon → **LV40** | 🏆 **Omnimon** |
+| ขั้น | ปั้นอะไร | ถึง | ได้ |
+|---|---|---|---|
+| **1** | **MetalMamemon** | **40** | ปลด **MetalGarurumon** |
+| **2** | **MetalGarurumon** | **40** | 🏆 **Omnimon** |
 
----
-
+> ⭐ **เหลือแค่ 2 ขั้น** — WarGreymon ทำเกินไว้แล้ว (99 > 40)
 ## สายอื่นที่ยังไม่ได้เริ่ม
 
 ### สายอัศวิน (Growlmon)
