@@ -4,186 +4,133 @@ subtype: digivolution
 game: "Digimon World 3"
 partner: Veemon
 level: 62
-updated: 2026-09-22
+source: "GameFAQs Digivolution Guide v1.0 (Icevenant)"
+updated: 2026-09-24
 ---
 
 # 🐉 ผัง Digivolution — Veemon (LV62)
 
-> ✅ = ปลดแล้ว · 🔵 = ยังไม่ผ่านเงื่อนไข · ตัวเลขในเมนู = **เลเวลสกิล**
+## 📊 สเตตัส
 
-## 📊 สเตตัสปัจจุบัน — แตะเพดานแล้ว 2 ตัว
-
-| สเตตัส | ค่า |
-|---|---|
-| 👊 **Strength** | **999** 🔝 MAX |
-| 🍃 **Speed** | **999** 🔝 MAX |
-| ✨ Charisma | 481 |
-| 📖 Wisdom | 426 |
-| 🌸 Spirit | 406 |
-| 🛡️ Defense | 375 |
-| 🌑 **Dark** | **266** |
-| ⚡ Thunder | 264 |
-| ❄️ Ice | 246 |
-| 💧 Water | 203 |
-| 🌪️ Wind | 179 |
-| ⚙️ Machine | 168 |
-| 🔥 Fire | 111 |
-
-**HP 4094 · MP 2576**
-
----
+| | ค่า | | ค่า |
+|---|---|---|---|
+| 👊 Strength | **999** 🔝 | 🔥 Fire | 111 |
+| 🛡️ Defense | 375 | 💧 Water | 203 |
+| 🌸 Spirit | 406 | ❄️ Ice | 246 |
+| 📖 Wisdom | 426 | 🌪️ Wind | 179 |
+| 🍃 Speed | **999** 🔝 | ⚡ Thunder | 264 |
+| ✨ Charisma | 481 | ⚙️ Machine | 168 |
+| | | 🌑 Dark | 266 |
 
 ## 🏆 สถานะปัจจุบัน
 
 ```
 Veemon LV62
  │
- ├─ ✅ ExVeemon ............... Veemon 5 ✓
- │   │
- │   ├─ ✅ Stingmon ........... ExVeemon 30 ✓
- │   │   └─ ✅ Kabuterimon .... Stingmon 40 ✓
- │   │       └─ ✅ GranKuwagamon  Kabuterimon 40 ✓ + Imperialdramon 40 ✓ · สกิล 99
- │   │
- │   └─ ✅ Paildramon ......... Veemon 20 ✓ + Stingmon 5 ✓
- │       │
- │       ├─ ✅ MetalMamemon ... Paildramon 20 ✓ + Machine 100 ✓
- │       │   └─ 🔵 MetalGarurumon . MetalMamemon 40 + Machine 140 (มี 168 ✅ — เหลือแค่ปั้นเลเวล)
- │       │
- │       ├─ ✅ Devimon ........ Paildramon 25 ✓ + Dark 160 ✓ · สกิล 75
- │       │   └─ ✅ Myotismon .. Devimon 40 ✓
- │       │       └─ 🔵 MaloMyotismon ... Myotismon 99
- │       │
- │       └─ ✅ Imperialdramon . Veemon 40 ✓ · สกิล 99
- │           └─ ✅ Imperialdramon-F  Imperialdramon 99 ✓
- │               └─ 🔵 Imperialdramon-P ... +F 40 + Omnimon 40
+ ├─ ✅ Ex-Veemon .......... Veemon 5
+ │   └─ ✅ Stingmon ....... Ex-Veemon 30
+ │       └─ ✅ Kabuterimon  Stingmon 40
+ │
+ ├─ ✅ Paildramon ......... Stingmon 5 + Veemon 20
+ │   ├─ ✅ MetalMamemon ... Paildramon 20 + Machine 100 ✓
+ │   │   └─ 🎯 MetalGarurumon  MetalMamemon 40 + Machine 140 ✓ (มี 168)
+ │   │       └─ 🔵 MegaGargomon  MetalGarurumon 99
+ │   ├─ ✅ Devimon ........ Paildramon 25 + Dark 160 ✓
+ │   │   └─ ✅ Myotismon .. Devimon 40
+ │   │       └─ 🔵 MaloMyotismon  Myotismon 99
+ │   └─ ✅ Imperialdramon . Paildramon 50 + Veemon 40 ✓ ⭐
+ │       ├─ ✅ Imperialdramon-FM  Imperialdramon 99 ⭐
+ │       └─ ✅ GranKuwagamon ... Imperialdramon 40 + Kabuterimon 40 ⭐
+ │
+ └─ 🎯 Greymon ............ Paildramon 35 + Defense 200 ✓ (มี 375)
+     └─ 🎯 SkullGreymon ... Greymon 50 + Dark 190 ✓ (มี 266)
+         └─ 🔵 BK WarGreymon  SkullGreymon 99
 ```
+
+## เงื่อนไขทั้งหมด
 
 | ร่าง | เงื่อนไข | สถานะ |
 |---|---|---|
-| **ExVeemon** · **Stingmon** · **Paildramon** | — | ✅ |
+| **Ex-Veemon** | Veemon 5 | ✅ |
+| **Stingmon** | Ex-Veemon 30 | ✅ |
+| **Paildramon** | Stingmon 5 + Veemon 20 | ✅ |
 | **Kabuterimon** | Stingmon 40 | ✅ |
-| **MetalMamemon** | Paildramon 20 + Machine 100 | ✅ |
-| **Imperialdramon** ⭐ | Veemon 40 | ✅ สกิล 99 |
-| **Imperialdramon-F** ⭐ | Imperialdramon 99 | ✅ **ได้แล้ว** |
-| **GranKuwagamon** ⭐ | Kabuterimon 40 + Imperialdramon 40 | ✅ **ได้แล้ว** สกิล 99 |
-| **Devimon** | Paildramon 25 + **Dark 160** ✓ (มี 266) | ✅ สกิล 75 |
-| **Myotismon** | Devimon 40 | ✅ **ได้แล้ว** |
-| **MaloMyotismon** | Myotismon 99 | 🔵 ปั้น Myotismon ถึง 99 |
-| **MetalGarurumon** | MetalMamemon 40 + **Machine 140** ✓ (มี 168) | 🔵 ปั้น MetalMamemon ถึง 40 |
-| **Imperialdramon-P** 👑 | Imperialdramon-F 40 **+** Omnimon 40 | 🔵 |
-
----
-
-## 👑 เส้นทางสู่ Diaboromon — ใกล้แล้ว!
-
-```
-Diaboromon = GranKuwagamon 99 + BK WarGreymon 99 + Imperialdramon 40
-```
-
-| ชิ้นส่วน | สถานะ |
-|---|---|
-| **GranKuwagamon** | ✅ **มีแล้ว** — ปั้นถึง LV99 |
-| **Imperialdramon** | ✅ **มีแล้ว** — ปั้นถึง LV40 |
-| **BK WarGreymon** | 🔵 ยังไม่มีในตัว Veemon |
-
-**ทางไปสู่ BK WarGreymon ของ Veemon:**
-```
-Greymon ← Paildramon 35 + Defense 200 ✅ (มี 375)
-  └─ SkullGreymon ← Greymon 50 + Dark 190 ✅ (มี 266!)
-      └─ BK WarGreymon ← SkullGreymon 99
-```
-> ⭐ **เงื่อนไขสเตตัสผ่านหมดแล้ว** — เหลือแค่ปั้นเลเวลไล่ขึ้นไป
-
----
-
-## 👑 เส้นทางสู่ Imperialdramon-P
-
-```
-Imperialdramon-P = Imperialdramon-F 40 + Omnimon 40
-```
-
-| ชิ้นส่วน | สถานะ |
-|---|---|
-| **Imperialdramon-F** | ✅ **มีแล้ว** — ปั้นถึง LV40 |
-| **Omnimon** | 🔵 ต้องมี WarGreymon 40 + MetalGarurumon 40 ในตัว Veemon |
-
-**Omnimon ของ Veemon:**
-```
-MetalGarurumon ← MetalMamemon 40 + Machine 140 ✅ (มี 168)
-WarGreymon ← MetalGreymon 99 ← Greymon 40 ← Paildramon 35 ✅
-```
-> ⭐ สเตตัสผ่านหมดเช่นกัน — เหลือแค่ปั้นเลเวล
-
----
-
-## สายที่ยังไม่ได้เริ่ม
-
-| ร่าง | เงื่อนไข | สถานะสเตตัส |
-|---|---|---|
-| **Growlmon** | Paildramon 30 + **Fire 90** ✓ (มี 111) | ✅ พร้อม |
-| **WarGrowlmon** → **Gallantmon** | Growlmon 50 → 99 | |
-| **Kyubimon** | Paildramon 40 + **Ice 200** ✓ (มี 246) | ✅ พร้อม |
-| **Taomon** → **Sakuyamon** | Kyubimon 50 → Taomon 99 | |
-| **Angemon** | Paildramon 45 + **Intelligence 230** ✓ (มี 426) | ✅ พร้อม |
-| **MagnaAngemon** → **Seraphimon** | Angemon 50 → 99 | |
-| **Grizzmon** | Imperialdramon 45 + Defense ✓ | ✅ พร้อม |
-| **GrapLeomon** → **Marsmon** | Grizzmon 50 → 99 | |
-| **Hookmon** → **Armormon** → **Cannondramon** | Imperialdramon 35 + Machine ✓ | ✅ พร้อม |
-| **Digitamamon** | Imperialdramon 20 + Intelligence ✓ | ✅ พร้อม |
-| **Dinohumon** → **Kyukimon** → **GuardiAngemon** | ผ่าน Imperialdramon | |
-| **Beelzemon** ⭐ | MaloMyotismon 40 **+** Gallantmon 40 | 🔵 |
+| **MetalMamemon** | Paildramon 20 + Machine 100 ✓ | ✅ |
+| **Devimon** | Paildramon 25 + Dark 160 ✓ | ✅ |
+| **Myotismon** | Devimon 40 | ✅ |
+| **Imperialdramon** ⭐ | Paildramon 50 + Veemon 40 | ✅ |
+| **Imperialdramon-FM** ⭐ | Imperialdramon 99 | ✅ |
+| **GranKuwagamon** ⭐ | Imperialdramon 40 + Kabuterimon 40 | ✅ |
+| **MetalGarurumon** | MetalMamemon **40** + Machine 140 ✓ | 🎯 ปั้น MetalMamemon |
+| **Greymon** | Paildramon 35 + Defense 200 ✓ | 🎯 ปั้น Paildramon ถึง 35 |
+| **SkullGreymon** | Greymon 50 + Dark 190 ✓ | 🎯 |
+| **BK WarGreymon** | SkullGreymon 99 | 🔵 |
+| **MetalGreymon** | Greymon 40 | 🔵 |
+| **WarGreymon** | MetalGreymon 99 | 🔵 |
+| **Omnimon** 🏆 | WarGreymon 40 + MetalGarurumon 40 | 🔵 |
 | **MegaGargomon** | MetalGarurumon 99 | 🔵 |
+| **MaloMyotismon** | Myotismon 99 | 🔵 |
+| **Diaboromon** 👑 | GranKuwagamon 99 ✅มี + BK WarGreymon 99 | 🔵 **1/2** |
+| **Imperialdramon-PM** 👑 | Imperialdramon-FM 40 ✅มี + Omnimon 40 | 🔵 **1/2** |
+| **Growlmon** | Paildramon 30 + Fire 90 ✓ (มี 111) | 🎯 พร้อม |
+| **WarGrowlmon** | Growlmon 50 | 🔵 |
+| **Gallantmon** | WarGrowlmon 99 | 🔵 |
+| **Beelzemon** 👑 | MaloMyotismon 40 + Gallantmon 40 | 🔵 |
+| **Kyubimon** | Paildramon 40 + Ice 200 ✓ (มี 246) | 🎯 พร้อม |
+| **Taomon** | Kyubimon **50** | 🔵 |
+| **Sakuyamon** | Taomon 99 | 🔵 |
+| **Angemon** | Paildramon 45 + Wisdom 230 ✓ (มี 426) | 🎯 พร้อม |
+| **MagnaAngemon** | Angemon 50 | 🔵 |
+| **Seraphimon** | MagnaAngemon 99 | 🔵 |
+| **Angewomon** | MagnaAngemon 20 | 🔵 |
+| **Rosemon** | Angewomon 40 | 🔵 |
+| **Phoenixmon** | Rosemon 99 | 🔵 |
+| **Dinohumon** | Imperialdramon 30 ✓ | 🎯 พร้อม |
+| **Kyukimon** | Dinohumon 50 | 🔵 |
+| **GuardiAngemon** | Kyukimon 99 | 🔵 |
+| **Hookmon** | Imperialdramon 35 + Machine 160 ✓ (มี 168) | 🎯 พร้อม |
+| **Armormon** | Hookmon 50 | 🔵 |
+| **Cannondramon** | Armormon 99 | 🔵 |
+| **Grizzmon** | Imperialdramon 45 + Defense 200 ✓ | 🎯 พร้อม |
+| **GrapLeomon** | Grizzmon 50 | 🔵 |
+| **Marsmon** | GrapLeomon 99 | 🔵 |
+| **Digitamamon** | Imperialdramon 20 + Wisdom 300 ✓ (มี 426) | 🎯 พร้อม |
 
-> 💡 **สเตตัสของ Veemon ผ่านเกณฑ์แทบทุกสายแล้ว** — จากนี้เป็นเรื่องปั้นเลเวลล้วนๆ
-> **Paildramon คือกุญแจ** — ปั้นมันถึง LV45 จะปลดได้ทีเดียวหลายสาย (30 · 35 · 40 · 45)
-
----
-
-## 🎯 ควรปั้นเลเวลร่างไหนต่อ — เรียงตามความคุ้ม
-
-### 🥇 อันดับ 1: **Greymon** → LV50
-
-**ปั้นตัวเดียว ได้ 2 แยกพร้อมกัน**
-
-```
-Greymon LV40 ──→ MetalGreymon ──LV99──→ WarGreymon ──┐
-                                                      ├──→ 🏆 Omnimon
-Greymon LV50 ──→ SkullGreymon ──LV99──→ BK WarGreymon ┘   (+ MetalGarurumon 40)
-                                            │
-                                            └──→ 👑 Diaboromon (ชิ้นที่ 3)
-```
-
-- Greymon ปลดแล้ว (Paildramon 35 + Defense 200 ✅)
-- **ปลายทางทั้งสองแยกเป็นเงื่อนไขของทั้ง Omnimon และ Diaboromon**
-
-### 🥈 อันดับ 2: **GranKuwagamon** → LV99
-
-ชิ้นส่วนแรกของ **Diaboromon** — มีร่างแล้ว เหลือแค่ปั้น
-
-### 🥉 อันดับ 3: **MetalMamemon** → LV40
-
-→ ปลด **MetalGarurumon** (Machine 168 ผ่านเกณฑ์ 140 แล้ว) = อีกครึ่งของ **Omnimon**
-
-### 4: **Imperialdramon-F** → LV40
-
-ชิ้นส่วนแรกของ **Imperialdramon-P** — มีร่างแล้ว เหลือแค่ปั้น
-
-### 5: **Myotismon** → LV99
-
-→ ปลด **MaloMyotismon** → แล้วต่อเป็น **Beelzemon** (ต้อง Gallantmon 40 ด้วย)
+> ⭐ **เงื่อนไขสเตตัสของ Veemon ผ่านหมดทุกข้อแล้ว** — ไม่ต้องซื้อ Chip อีกเลย
+> เหลือแค่ปั้นเลเวลของร่างต่างๆ
 
 ---
 
-## 📋 สรุปเป็นลำดับทำจริง
+## 🎯 แผน — Veemon ถือชิ้นส่วนร่างสูงสุดคนละครึ่ง
 
-| ลำดับ | ปั้นอะไร | ถึงเลเวล | ได้อะไร |
-|---|---|---|---|
-| 1 | **Greymon** | **50** | MetalGreymon (ที่ 40) + SkullGreymon (ที่ 50) |
-| 2 | **MetalGreymon** | 99 | **WarGreymon** |
-| 3 | **SkullGreymon** | 99 | **BK WarGreymon** |
-| 4 | **MetalMamemon** | 40 | **MetalGarurumon** |
-| 5 | WarGreymon + MetalGarurumon | 40 ทั้งคู่ | 🏆 **Omnimon** |
-| 6 | **GranKuwagamon** | 99 | 👑 **Diaboromon** (ครบ 3 ชิ้น) |
-| 7 | **Imperialdramon-F** | 40 | 👑 **Imperialdramon-P** (คู่กับ Omnimon 40) |
+| ร่างสูงสุด | มีแล้ว | ขาด |
+|---|---|---|
+| 👑 **Diaboromon** | **GranKuwagamon** ✅ | BK WarGreymon 99 |
+| 👑 **Imperialdramon-PM** | **Imperialdramon-FM** ✅ | Omnimon 40 |
 
-> ⭐ **เงื่อนไขสเตตัสของ Veemon ผ่านหมดทุกสายแล้ว** — จากนี้เป็นเรื่องปั้นเลเวลล้วนๆ ไม่ต้องซื้อ Chip เพิ่ม
+### 🥇 ลำดับที่คุ้มที่สุด: ปั้น **Paildramon**
+
+**Paildramon คือรากของเกือบทุกสาย** — เลเวลของมันปลดได้ถึง 7 ร่าง
+
+| Paildramon ถึง LV | ปลดอะไร |
+|---|---|
+| 20 ✅ | MetalMamemon |
+| 25 ✅ | Devimon |
+| 30 | **Growlmon** → สายอัศวิน |
+| **35** | **Greymon** ⬅ ทางไป BK WarGreymon (Diaboromon) |
+| 40 | **Kyubimon** → สายเวท |
+| 45 | **Angemon** → สายเทวดา |
+| 50 ✅ | Imperialdramon |
+
+### 📋 ลำดับทำจริง
+
+| ลำดับ | ทำอะไร | ได้อะไร |
+|---|---|---|
+| **1** | **Paildramon → LV35** | ปลด Greymon (+ Growlmon ที่ 30 ระหว่างทาง) |
+| **2** | Greymon → LV50 | ปลด **SkullGreymon** (+ MetalGreymon ที่ 40) |
+| **3** | **SkullGreymon → LV99** | ปลด **BK WarGreymon** |
+| **4** | **BK WarGreymon → 99** + **GranKuwagamon → 99** | 👑 **Diaboromon** |
+| **5** | MetalGreymon → 99 → WarGreymon → 40 · MetalMamemon → 40 → MetalGarurumon → 40 | 🏆 **Omnimon** |
+| **6** | Omnimon → 40 + Imperialdramon-FM → 40 | 👑 **Imperialdramon-PM** |
+
+> 💡 ปั้น **Paildramon ให้ถึง 45** เลยก็ได้ — จะปลด Growlmon · Greymon · Kyubimon · Angemon รวดเดียว 4 สาย

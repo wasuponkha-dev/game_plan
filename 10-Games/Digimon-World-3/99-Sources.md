@@ -7,7 +7,8 @@ game: "Digimon World 3"
 
 | แหล่ง | ใช้ทำอะไร | หมายเหตุ |
 |---|---|---|
-| **Versus Books Official Perfect Guide** (PDF 100 หน้า) | คู่มือหลัก — walkthrough, Digidex, แผนที่ | ไฟล์อยู่ใน `Downloads/` · OCR แล้ว บางตารางอ่านเพี้ยน |
+| **Versus Books Official Perfect Guide** (PDF 100 หน้า) | walkthrough · แผนที่ · ไอเทม · ของสำคัญ | ไฟล์อยู่ใน `Downloads/` |
+| ⭐ **GameFAQs Digivolution Guide v1.0** (Icevenant, 2015) | **เงื่อนไข Digivolve ทั้ง 8 Partner · DNA DV · Blast DV · EXP table** | **แม่นกว่า PDF — ใช้เป็นหลักสำหรับผัง** |
 | GameFAQs — Digimon World 3 | เช็ค DNA quest / digivolution ที่ guide ไม่ชัด | |
 | Digimon Wiki (Fandom) | สาย Digivolve | |
 
