@@ -17,49 +17,61 @@ updated: 2026-09-20
 ```
 Agumon LV40
  │
- ├─ ✅ Greymon ................ Agumon 5
+ ├─ ✅ Greymon
  │   │
- │   ├─ ✅ MetalGreymon ....... Agumon 20
- │   │   └─ ✅ WarGreymon ..... Agumon 40 ✓  ⭐ Mega · **LV99** 🔝
- │   │       │
- │   │       ├─ ✅ MetalMamemon ... WarGreymon 10 ✓ (ผ่านไปนานแล้ว)
- │   │       │   └─ 🔵 MetalGarurumon ... MetalMamemon 40
- │   │       │       └─ 🔵 MegaGargomon ... MetalGarurumon 99
- │   │       │
- │   │       └─ 🔵 Omnimon .... WarGreymon 40 ✅ + MetalGarurumon 40 🔵
+ │   ├─ ✅ MetalGreymon
+ │   │   └─ ✅ WarGreymon ..... LV99 🔝 ─────────┐
+ │   │       │                                  │
+ │   │       └─ ✅ MetalMamemon                  ├──→ 🏆 ✅ Omnimon
+ │   │           └─ ✅ MetalGarurumon ──────────┘        ⭐ ได้แล้ว!
+ │   │               └─ 🔵 MegaGargomon ... MetalGarurumon 99
  │   │
- │   └─ ✅ SkullGreymon ....... Greymon 50 + Dark 130 ✓ · LV99
- │       └─ ✅ BK WarGreymon .. SkullGreymon 99 ✓  ⭐ Mega · LV3
+ │   └─ ✅ SkullGreymon ....... LV99
+ │       └─ ✅ BK WarGreymon .. LV3
  │
- └─ ✅ Growlmon ............... Greymon 20 ✓
+ └─ ✅ Growlmon
      └─ 🔵 WarGrowlmon ........ Growlmon 40
 ```
 
 | ร่าง | เงื่อนไข | สถานะ |
 |---|---|---|
 | **Greymon** · **MetalGreymon** · **Growlmon** | — | ✅ |
-| **SkullGreymon** | Greymon 50 + Dark 130 ✓ | ✅ **LV99** |
+| **SkullGreymon** | Greymon 50 + Dark 130 ✓ | ✅ LV99 |
 | **BK WarGreymon** ⭐ | SkullGreymon 99 ✓ | ✅ LV3 |
 | **WarGreymon** ⭐ | Agumon 40 ✓ | ✅ **LV99** 🔝 |
-| **MetalMamemon** | WarGreymon 10 ✓ | ✅ ปลดแล้ว |
-| **MetalGarurumon** | MetalMamemon **40** | 🔵 ⬅ **งานถัดไป** |
-| **Omnimon** 🏆 | WarGreymon 40 ✅ **+** MetalGarurumon 40 | 🔵 เหลือชิ้นเดียว! |
+| **MetalMamemon** | WarGreymon 10 ✓ | ✅ |
+| **MetalGarurumon** | MetalMamemon 40 ✓ | ✅ |
+| **Omnimon** 🏆 | WarGreymon 40 ✓ **+** MetalGarurumon 40 ✓ | ✅ **ได้แล้ว!** |
+| **MegaGargomon** | MetalGarurumon **99** | 🔵 ⬅ งานถัดไปที่ถูกที่สุด |
 
-> 🔥 **WarGreymon LV99 เกินเงื่อนไข Omnimon (40) ไปไกลแล้ว** — เหลือแค่ MetalGarurumon อย่างเดียว
-## 🎯 เส้นทางสู่ Omnimon — เหลือขั้นเดียว!
+> 🎉 **Omnimon สำเร็จ** — ร่างผสมตัวแรก ต้องปั้นสองสายมาบรรจบกัน
+## 🎯 เป้าหมายถัดไปของ Agumon
+
+### 🥇 MegaGargomon — ถูกที่สุด
+
+`MegaGargomon ← MetalGarurumon 99` — MetalGarurumon อยู่ที่ LV40 แล้ว ปั้นต่ออีก 59 เลเวลก็ได้ Mega อีกตัว
+
+### 🥈 Imperialdramon-P — แพงแต่เป็นร่างสูงสุด
 
 ```
-✅ WarGreymon LV99 ──────────────────────────┐
-                                             ├──→ 🏆 Omnimon
-🔵 MetalMamemon ──LV40──→ MetalGarurumon ──LV40──┘
+Imperialdramon-P = Imperialdramon-F 40 + Omnimon 40 ✅ (มีแล้ว)
 ```
 
-| ขั้น | ปั้นอะไร | ถึง | ได้ |
-|---|---|---|---|
-| **1** | **MetalMamemon** | **40** | ปลด **MetalGarurumon** |
-| **2** | **MetalGarurumon** | **40** | 🏆 **Omnimon** |
+| ต้องการ | Agumon | อุปสรรค |
+|---|---|---|
+| **Omnimon 40** | ✅ มีแล้ว | ปั้นถึง 40 |
+| **Imperialdramon-F** | 🔵 | ⚠️ ติด **ExVeemon ← Ice 320** (มี 74 — ขาด **246**) |
 
-> ⭐ **เหลือแค่ 2 ขั้น** — WarGreymon ทำเกินไว้แล้ว (99 > 40)
+**ถ้าจะลุย:** ซื้อ **Ice Chip** (2,200/อัน) ดัน Ice จาก 74 → 320
+แล้วไล่ ExVeemon → Paildramon → Imperialdramon → LV99 → Imperialdramon-F → LV40
+
+> 💡 **เทียบกับ Veemon:** Veemon มี Imperialdramon-F แล้วและสเตตัสผ่านหมด เหลือแค่ปั้น Omnimon ของตัวเอง — **ถูกกว่ามาก** ถ้าจะทำ Imperialdramon-P ให้ทำที่ Veemon
+
+### 🥉 Diaboromon
+
+`Diaboromon = GranKuwagamon 99 + BK WarGreymon 99 + Imperialdramon 40`
+
+Agumon มี **BK WarGreymon** (LV3) แล้ว 1/3 · ที่เหลือติด Ice 320 เหมือนกัน
 ## สายอื่นที่ยังไม่ได้เริ่ม
 
 ### สายอัศวิน (Growlmon)

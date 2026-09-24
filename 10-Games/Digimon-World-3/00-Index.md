@@ -18,7 +18,7 @@ tags: [game, digimon, ps1]
 
 > [!abstract] เปิดมาอ่านตรงนี้ก่อน
 > **เนื้อเรื่องถึง:** ชนะ Byakko Leader แล้ว (Badge ใบที่ 3) → ต่อไป Genbu Leader
-> **ทำต่อ:** 🏆 **Omnimon เหลือขั้นเดียว** — ปั้น MetalMamemon → 40 → MetalGarurumon → 40 · แล้วเดินเนื้อเรื่องที่ Dum Dum Factory
+> **ทำต่อ:** 🏆 **ได้ Omnimon แล้ว!** · ถัดไป MegaGargomon (MetalGarurumon → 99) · แล้วเดินเนื้อเรื่องที่ Dum Dum Factory
 > **✅ Partner ครบ 8/8** — ไม่มีเส้นตายเลเวลอีกแล้ว ฟาร์มได้เต็มที่
 > **เซฟไว้ที่:** 
 
