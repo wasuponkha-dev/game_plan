@@ -163,3 +163,44 @@ VB (ไฟ) · DS (น้ำ) · NSo (น้ำแข็ง) · WG (ลม) · N
 | **Thunder Chip** | Maildramon | **AsW: Mobius Desert** | ✅ ใกล้ที่สุด |
 | **Ice Chip** | Frigimon | AsN: Snow Mountain · Freeze Mountain | 🔒 ยังไม่ได้ |
 | **Wind Chip** | Antylamon | AmC: Central Park · Shell Beach | 🔒 Amaterasu |
+
+---
+
+## ⚙️ Machine Tolerance เพิ่มได้จาก **อุปกรณ์** ไม่ต้องซื้อ Chip
+
+> ⭐ **ถูกกว่า Metal Chip (2,600) หลายเท่า**
+
+| อุปกรณ์ | ช่อง | Machine Tol. | ราคา | ใครใส่ได้ |
+|---|---|---|---|---|
+| **Iron Armor** | เกราะ | **+8** | **750** | Kotemon · Agumon · Guilmon · Veemon |
+| **Iron Helm** | หมวก | **+5** | 550 | Kotemon · Agumon · Guilmon · Veemon |
+| **Infinity Helm** | หมวก | **+10** | 11,000 | Kotemon · Agumon · Guilmon · Veemon |
+
+**ธาตุอื่นก็มี:**
+
+| อุปกรณ์ | เพิ่มอะไร | ราคา |
+|---|---|---|
+| Kuron Armor | Fire Tol. +10 | 6,500 |
+| Iron Armor | Dark Tol. +7 · Machine Tol. +8 | 750 |
+| Wing Helm / Iron Helm | Wind Tol. +10 | 1,800 / 550 |
+| Digitama Helm | Ice Tol. +10 | 7,000 |
+| Baseball Cap | Ice Tol. +10 | 250 |
+| Kung-Fu Cap | Dark Tol. +10 | 1,400 |
+
+> 💡 **Baseball Cap (250 bits) เพิ่ม Ice +10** — ถูกกว่า Ice Chip (2,200) มาก
+> Agumon ขาด Ice 26 → ใส่ Baseball Cap + Digitama Helm ก็ใกล้แล้ว
+
+## 🏭 Dum Dum Factory ดรอปอะไรบ้าง
+
+| Digimon | ดรอป |
+|---|---|
+| **Andromon** | Machine Gun |
+| **Clockmon** | Multi Crest |
+| **Hagurumon** | Metal Power 1 |
+| **Thundermon** | Pulse Guard |
+| **Marsmon** (Duct Rooms · Operation Room · Secret Stairs) | Search Crest |
+
+> ⚠️ **ไม่มีใครดรอป Metal Chip ที่นี่**
+> Metal Chip ดรอปจาก **MetalTyrannomon** ที่ **Amaterasu East: Wind Prairie · Tyranno Valley** — 🔒 ยังไปไม่ได้
+>
+> **Metal Power 1/S เป็นคนละอย่างกับ Metal Chip** — มันเพิ่มพลังโจมตีธาตุ Machine ไม่ได้เพิ่มค่าสเตตัส
