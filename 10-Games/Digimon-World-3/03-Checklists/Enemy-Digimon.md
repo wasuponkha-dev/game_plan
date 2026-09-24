@@ -60,7 +60,7 @@ Digimon หลายตัวดรอป **Chip เพิ่มสเตตั�
 | **Flarerizamon** | 204 | 400 | AsN: Boot Mountain, Fire Dungeon | Fire Power 2 |
 | **Flymon** | 66 | 130 | AsE: Wire Forest West; AsC: Wire Forest Entrance |  |
 | **Flymon2** | 165 | 330 |  | ( P) AmE: Wire Forest East, Divermon's Lake, Wind Prairie Glasses |
-| **Frigimon** | 206 | 420 |  | Ice Chip |
+| **Frigimon** | 206 | 420 | **AsN: Snow Mountain · Freeze Mountain** | **Ice Chip** |
 | **Fugamon** | 210 | 430 | AsN: Kulon Mine, Kulon Pit |  |
 | **Garbagemon** | 235 | 470 | AmW: Sewers | Goggles |
 | **Gargoylemon** | 176 | 350 | AmE: Protocol Forest, Protocol Ruins | Dark Power 2 |
@@ -73,7 +73,7 @@ Digimon หลายตัวดรอป **Chip เพิ่มสเตตั�
 | **Gryphonmon** | 227 | 440 | AmW: Pelche Oasis, Noise Desert | Wind Power S |
 | **Guardromon2** | 231 | 460 | AmW: Dum Dum Factory, Operation Room, Secret Stairs |  |
 | **Hagurumon** | 117 | 230 | AsW: Dum Dum Factory | Metal Power 1 |
-| **Icemon** | 215 | 420 |  | Ice Power 2 |
+| **Icemon** | 215 | 420 | **AsN: Lake of Ice** | Ice Power 2 |
 | **Kimeramon** | 223 | 420 | AsN: Dark Dungeon | Devil Chip |
 | **KingEtemon** | 226 | 500 | AmW: North Badland E, South Badland | Charisma Chip |
 | **Kiwimon** | 15 | 35 | AsE: Wind Prairie |  |

@@ -138,3 +138,28 @@ VB (ไฟ) · DS (น้ำ) · NSo (น้ำแข็ง) · WG (ลม) · N
 
 > 💡 **ถ้าหา Chip ซื้อไม่เจอ ฟาร์มเอาได้** — Digimon หลายตัวดรอป Chip ให้ ดู [[Enemy-Digimon]]
 > เช่น **Metal Chip** ← Musyamon (Wind Prairie · Tyranno Valley ฝั่ง Amaterasu) · **Power Chip** ← Betamon (Shell Beach · Plug Cape)
+
+---
+
+## 🧊 Ice Chip หาที่ไหน
+
+| วิธี | รายละเอียด | ตอนนี้ทำได้ไหม |
+|---|---|---|
+| **ซื้อ** | ราคา **2,200 bits** — ร้านในเมืองหลัก | ✅ **ทำได้** (ยังไม่รู้ว่าร้านไหนขาย ลอง Byakko City ก่อน) |
+| **ฟาร์ม** | **Frigimon** ดรอป Ice Chip | ⚠️ อยู่ **Snow Mountain · Freeze Mountain (Asuka North)** — **ยังไปไม่ได้** |
+
+> 🔒 **North Sector ต้องมี Digi-Egg of Knowledge ก่อน** (เรียก Digmon ลงหลุมที่ยอด Plug Cape)
+> Digi-Egg of Knowledge ได้ในบทที่ 6 ที่ **Zhu Que UG Lake (Amaterasu South)** — ฮันยังไม่ถึง
+>
+> 👉 **ตอนนี้ต้องซื้อเอาอย่างเดียว**
+
+### Chip ธาตุอื่นที่ฟาร์มได้ (อ้างอิงเผื่อใช้)
+
+| Chip | ดรอปจาก | ที่ไหน | ไปได้ไหม |
+|---|---|---|---|
+| **Fire Chip** | Airdramon | AsE: Tyranno Valley | ✅ |
+| **Water Chip** | Coelamon | AsC: Plug Cape · AsS: Bulk/Bios/Tranquil Swamps · Bulk Bridge · Jungle Grave | ✅ |
+| **Water Chip** | Shellmon | AsS: South Cape · AsC: Shell Beach · Plug Cape | ✅ |
+| **Thunder Chip** | Maildramon | **AsW: Mobius Desert** | ✅ ใกล้ที่สุด |
+| **Ice Chip** | Frigimon | AsN: Snow Mountain · Freeze Mountain | 🔒 ยังไม่ได้ |
+| **Wind Chip** | Antylamon | AmC: Central Park · Shell Beach | 🔒 Amaterasu |
