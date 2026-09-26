@@ -7,55 +7,71 @@ updated: 2026-09-26
 
 # 🎰 Digivolution Slot — พกได้ 3 ร่าง
 
-> เปลี่ยนที่ **Dr. Kadomatsu (Asuka City)** หรือ **Piximon**
-> เมนู **"เปลี่ยนชนิดดิจิวิว"** · อีกเมนู **"โหลดท่า"** (ยืมท่าจากร่างอื่น 3 ท่า)
-
-## ⚠️ ทำไมสำคัญ
-
-**ร่างที่พกอยู่เท่านั้นที่ Digivolve และปั้นเลเวลได้** — แผนทั้งหมดขึ้นกับการตั้งช่อง
+> เปลี่ยนที่ **Dr. Kadomatsu (Asuka City)** หรือ **Piximon** · เมนู **"เปลี่ยนชนิดดิจิวิว"**
+> ⚠️ **ร่างที่พกอยู่เท่านั้นที่ Digivolve และปั้นเลเวลได้**
 
 ---
 
-## 📋 ที่ตั้งอยู่ตอนนี้
+## 🐌 งานที่ยาวที่สุดในแผน — เริ่มก่อนเลย
+
+| ร่าง | ของใคร | ตอนนี้ | ต้องถึง | ห่าง |
+|---|---|---|---|---|
+| **BK WarGreymon** | Agumon | **LV3** | **99** | **96 เลเวล** |
+| **Myotismon** | Veemon | **LV2** | **99** | **97 เลเวล** |
+
+> ⭐ **สองตัวนี้อยู่คนละ Partner** → จัดลงทีมพร้อมกันได้ ปั้นไปพร้อมกัน ไม่เสียเวลา
+> ทั้งคู่เป็นเงื่อนไขปลายทางของเป้าหมายหลัก (Diaboromon / Beelzemon)
+
+---
+
+## 🎰 Slot แนะนำ — ทีมปั้นระยะยาว
 
 | Partner | ช่อง 1 | ช่อง 2 | ช่อง 3 |
 |---|---|---|---|
-| **Veemon** | Imperialdramon-F | **Greymon** 🆕 สกิล 1 | Myotismon |
-| **Kotemon** | Dinohumon | Kyukimon | **GuardiAngemon** |
-| **Agumon** | (ยังไม่ได้บันทึก) | | |
+| **Agumon** | **BK WarGreymon** ⬅ ปั้น 99 | Omnimon (แรงสุด) | **Stingmon** ⬅ ปั้น 50 |
+| **Veemon** | **Myotismon** ⬅ ปั้น 99 | **Growlmon** ⬅ ปั้น 50 | GranKuwagamon (แรง) |
+| **Kotemon** | **GuardiAngemon** ⬅ ปั้น 20 | Kyukimon LV99 (แรง) | **Greymon** ⬅ ปั้น 40 |
+
+> 💡 **ช่อง 2–3 ของ Agumon/Veemon เก็บตัวแรงไว้สู้** — ไม่งั้นทีมอ่อนเกินไประหว่างปั้น
+
+### ⚠️ ข้อแลกเปลี่ยน
+
+ถ้าเอา **BK WarGreymon + GranKuwagamon** ลงพร้อมกัน → ใช้ท่า **DNA Diaboromon 999** ได้
+แต่ถ้าปั้น Myotismon อยู่ → Veemon ไม่ได้อยู่ร่าง GranKuwagamon
+
+**ทางออก:** เก็บ GranKuwagamon ไว้ช่อง 3 ของ Veemon — สลับมาใช้ตอนสู้บอส
 
 ---
 
-## ✅ ควรตั้งอะไร
+## 📋 เป้าหมายของแต่ละช่อง
 
-### 🐉 Veemon — **ตั้งถูกแล้ว!**
+### 🦖 Agumon → 👑 Diaboromon
 
-| ช่อง | ร่าง | เหตุผล |
+| ปั้นอะไร | ถึง | ได้อะไร |
 |---|---|---|
-| 1 | Imperialdramon-F | เป้าหมายถาวร (ต้องปั้นถึง 40 ทีหลัง) |
-| 2 | **Greymon** ⬅ ปั้นตัวนี้ | **ต้องถึง LV50** → ปลด MetalGreymon (40) + SkullGreymon (50) |
-| 3 | Myotismon | ปั้นถึง 99 → MaloMyotismon (ของแถม) |
+| **Stingmon** | 50 | **Kabuterimon** |
+| **Paildramon** | 50 | **Imperialdramon** |
+| Imperialdramon → 40 · Kabuterimon → 40 | | **GranKuwagamon** |
+| **GranKuwagamon → 99** · **BK WarGreymon → 99** | | 👑 **Diaboromon** |
 
-> 💡 **ถ้าอยากเร่ง:** สลับช่อง 1 เป็น **MetalMamemon** (ปั้นถึง 40 → MetalGarurumon = ครึ่ง Omnimon)
-> Imperialdramon-F ยังไม่ต้องปั้นจนกว่าจะได้ Omnimon
+### 🐉 Veemon → 👑 Beelzemon + 👑 Imperialdramon-PM
 
-### ⚔️ Kotemon — ควรสลับ
-
-| ช่อง | ตอนนี้ | ควรเป็น | เหตุผล |
-|---|---|---|---|
-| 1 | Dinohumon | **GuardiAngemon** ⬅ ปั้น | **คอขวด** — ต้องถึง LV20 ปลด Kyubimon |
-| 2 | Kyukimon | **Kyukimon** (LV99) | ตัวแรงไว้สู้ |
-| 3 | GuardiAngemon | **MetalMamemon** ⬅ ปั้น | ปลดแล้ว (Machine 157 ✅) → ปั้นถึง 40 |
-
-> **Dinohumon LV99 เต็มแล้ว** — เอาออกได้ ไม่ต้องปั้นต่อ
-
-### 🦖 Agumon
-
-| ช่อง | ร่าง | เหตุผล |
+| ปั้นอะไร | ถึง | ได้อะไร |
 |---|---|---|
-| 1 | **BK WarGreymon** | 💥 ท่า DNA Diaboromon 999 · เป้าหมายถาวร |
-| 2 | **Omnimon** | 🏆 แรงสุด · ท่า DNA 850 |
-| 3 | **Stingmon** ⬅ ปั้นถึง **LV50** | ทางเดียวไป Beelzemon (→ Kabuterimon → Angemon → MagnaAngemon) |
+| **Myotismon** | **99** 🐌 | **MaloMyotismon** → ปั้น 40 |
+| **Growlmon** | 50 → WarGrowlmon 99 → Gallantmon 40 | **Gallantmon** |
+| MaloMyotismon 40 + Gallantmon 40 | | 👑 **Beelzemon** |
+| 🏋️ **Machine → 140** (ขาด 32) · Greymon → 40 → MetalGreymon → 99 → WarGreymon → 40 · MetalMamemon → 40 → MetalGarurumon → 40 | | 🏆 **Omnimon** |
+| Omnimon 40 + Imperialdramon-FM 40 | | 👑 **Imperialdramon-PM** |
+
+### ⚔️ Kotemon → Seraphimon + Phoenixmon
+
+| ปั้นอะไร | ถึง | ได้อะไร |
+|---|---|---|
+| **GuardiAngemon** | **20** | Stingmon (10) + **Kyubimon** (20) |
+| Kyubimon | 40 | **Taomon** ⬅ รากของทั้งสองเป้า |
+| 🏋️ Wind 200 · Taomon 30 | | **Angemon** → Seraphimon |
+| 🏋️ Water 360 · Taomon 20 | | **Angewomon** → Phoenixmon |
 
 ---
 
@@ -63,11 +79,6 @@ updated: 2026-09-26
 
 | สถานการณ์ | ทำอะไร |
 |---|---|
-| ร่างที่ปั้นถึงเป้าแล้ว | สลับออก เอาร่างถัดไปในสายเข้ามา |
+| ร่างที่ปั้นถึงเป้าแล้ว | สลับออก เอาร่างถัดไปเข้ามา |
 | ก่อนสู้บอส | เอาร่างแรงสุดเข้าครบ 3 ช่อง |
-| อยากใช้ท่า DNA | ต้องมีร่างที่จับคู่กันในทีม (คนละ Partner ก็ได้) |
-
-## ❓ กล่อง "?" ในผัง Kotemon (หน้า 3/4 · 4/4)
-
-ร่างที่เกมรู้ว่ามีแต่**ยังไม่ปลด** — น่าจะเป็นสายที่ต้องผ่าน Taomon (Angemon / Angewomon)
-ปลดได้เมื่อฝึก **Wind 200** และ **Water 360**
+| อยากใช้ท่า DNA | จัดร่างที่จับคู่กันลงทีม (คนละ Partner ได้) |
