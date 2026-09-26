@@ -18,7 +18,7 @@ tags: [game, digimon, ps1]
 
 > [!abstract] เปิดมาอ่านตรงนี้ก่อน
 > **เนื้อเรื่องถึง:** ชนะ Byakko Leader แล้ว (Badge ใบที่ 3) → ต่อไป Genbu Leader
-> **ทำต่อ:** ตาม [[แผนการฝึก]] — เป้า 3 ร่างต่อตัว (ได้แล้ว 4/9) · Veemon ปั้น Paildramon → 35 ก่อน
+> **ทำต่อ:** ตาม [[แผนการฝึก]] — Agumon→Diaboromon · Veemon→Beelzemon+Imperialdramon-PM · Kotemon→Seraphimon+Phoenixmon
 > **✅ Partner ครบ 8/8** — ไม่มีเส้นตายเลเวลอีกแล้ว ฟาร์มได้เต็มที่
 > **เซฟไว้ที่:** 
 
