@@ -55,7 +55,7 @@ updated: 2026-09-26
 |---|---|---|
 | 1 | **BK WarGreymon** | 💥 ท่า DNA Diaboromon 999 · เป้าหมายถาวร |
 | 2 | **Omnimon** | 🏆 แรงสุด · ท่า DNA 850 |
-| 3 | **Stingmon** ⬅ ปั้น | ไปสาย Beelzemon (Stingmon 50 → Kabuterimon) |
+| 3 | **Stingmon** ⬅ ปั้นถึง **LV50** | ทางเดียวไป Beelzemon (→ Kabuterimon → Angemon → MagnaAngemon) |
 
 ---
 
