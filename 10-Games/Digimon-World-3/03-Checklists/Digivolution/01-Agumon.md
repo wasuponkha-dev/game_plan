@@ -3,12 +3,12 @@ type: reference
 subtype: digivolution
 game: "Digimon World 3"
 partner: Agumon
-level: 40
+level: 54
 source: "GameFAQs Digivolution Guide v1.0 (Icevenant)"
 updated: 2026-09-24
 ---
 
-# 🦖 ผัง Digivolution — Agumon (LV40)
+# 🦖 ผัง Digivolution — Agumon (LV54)
 
 > ✅ ปลดแล้ว · 🔵 ยังไม่ปลด · 🎯 ใกล้มาก
 
@@ -46,7 +46,7 @@ Agumon LV40
 | **MetalGarurumon** | MetalMamemon 40 | ✅ |
 | **Omnimon** 🏆 | WarGreymon 40 + MetalGarurumon 40 | ✅ **ได้แล้ว** |
 | **MegaGargomon** | MetalGarurumon 99 | 🔵 |
-| **Ex-Veemon** | MetalGreymon 30 + **Ice 100** | 🎯 **ขาด Ice 26** |
+| **Ex-Veemon** | MetalGreymon 30 + **Ice 100** | 🎯 **ขาด Ice 29** — ฝึกที่ Gym ได้ (TP 95) |
 | **Stingmon** | WarGreymon 30 + Speed 260 ✓ (มี 799) | 🎯 พร้อม |
 | **Paildramon** | Ex-Veemon 5 + Stingmon 5 | 🔵 |
 | **Kabuterimon** | Stingmon 50 | 🔵 |
@@ -63,19 +63,19 @@ Agumon LV40
 | **Gallantmon** | WarGrowlmon 99 | 🔵 |
 | **Armormon** | Hookmon 50 | 🔵 |
 | **Cannondramon** | Armormon 99 | 🔵 |
-| **Grizzmon** | MetalGarurumon 30 + Defense 400 (มี 351 — ขาด 49) | 🔵 |
+| **Grizzmon** | MetalGarurumon 30 + Defense 400 ✓ (มี **430**) | 🎯 **พร้อมแล้ว** |
 | **GrapLeomon** | Grizzmon 50 | 🔵 |
 | **Marsmon** | GrapLeomon 99 | 🔵 |
 | **Kyubimon** | MetalGreymon 20 ✓ + Spirit 300 ✓ (มี 318) | 🎯 พร้อม |
 | **Taomon** | Kyubimon 40 | 🔵 |
 | **Sakuyamon** | Taomon 99 | 🔵 |
-| **Angemon** | Kabuterimon 20 + Wisdom 300 (มี 294 — ขาด 6) | 🔵 |
+| **Angemon** | Kabuterimon 20 + Wisdom 300 ✓ (มี **378**) | 🔵 รอ Kabuterimon |
 | **MagnaAngemon** | Angemon 50 | 🔵 |
 | **Seraphimon** | MagnaAngemon 99 | 🔵 |
 | **Angewomon** | MagnaAngemon 20 | 🔵 |
 | **Rosemon** | Angewomon 40 | 🔵 |
 | **Phoenixmon** | Rosemon 99 | 🔵 |
-| **Devimon** | MagnaAngemon 30 + Dark 250 (มี 153 — ขาด 97) | 🔵 |
+| **Devimon** | MagnaAngemon 30 + Dark 250 (มี 159 — ขาด 91) | 🔵 |
 | **Myotismon** | Devimon 40 | 🔵 |
 | **MaloMyotismon** | Myotismon 99 | 🔵 |
 | **Beelzemon** 👑 | MaloMyotismon 40 + Gallantmon 40 | 🔵 |
