@@ -10,6 +10,8 @@ updated: 2026-09-26
 
 # 🐉 Veemon (LV62) · TP 59
 
+> 🔝 **Paildramon LV99 · Imperialdramon LV99** — เงื่อนไขที่ผูกกับสองร่างนี้ผ่านหมดแล้ว
+
 **เป้าหมาย: 👑 Imperialdramon-PM · 👑 Diaboromon · ⭐ GranKuwagamon ✅**
 
 ## 📊 สเตตัส (Rookie)
@@ -62,29 +64,29 @@ Veemon LV62
 | **Diaboromon** 👑 | **GranKuwagamon 99** ✅มี + BK WarGreymon 99 | 🔵 **1/2 เป้าหมาย** |
 | **MaloMyotismon** | Myotismon 99 | 🎯 ปั้น Myotismon |
 | **MegaGargomon** | MetalGarurumon 99 | 🔵 |
-| **Growlmon** | Paildramon 30 ✓ + Fire 90 ✓ (มี 138) | 🎯 **เงื่อนไขครบ — สู้ชนะ 1 นัดเพื่อรับ** |
+| **Growlmon** | Paildramon 30 ✓ + Fire 90 ✓ | 🎯 **ครบ — รอสู้** |
 | **WarGrowlmon** | Growlmon 50 | 🔵 |
 | **Gallantmon** | WarGrowlmon 99 | 🔵 |
 | **Beelzemon** 👑 | MaloMyotismon 40 + Gallantmon 40 | 🔵 |
-| **Kyubimon** | Paildramon 40 + Ice 200 ✓ (มี 273) | 🎯 พร้อมแล้ว |
+| **Kyubimon** | Paildramon 40 ✓ + Ice 200 ✓ | 🎯 **ครบ — รอสู้** |
 | **Taomon** | Kyubimon **50** | 🔵 |
 | **Sakuyamon** | Taomon 99 | 🔵 |
-| **Angemon** | Paildramon 45 + Wisdom 230 ✓ (มี 393) | 🎯 พร้อมแล้ว |
+| **Angemon** | Paildramon 45 ✓ + Wisdom 230 ✓ | 🎯 **ครบ — รอสู้** |
 | **MagnaAngemon** | Angemon 50 | 🔵 |
 | **Seraphimon** | MagnaAngemon 99 | 🔵 |
 | **Angewomon** | MagnaAngemon 20 | 🔵 |
 | **Rosemon** | Angewomon 40 | 🔵 |
 | **Phoenixmon** | Rosemon 99 | 🔵 |
-| **Dinohumon** | Imperialdramon 30 ✓ | 🎯 พร้อมแล้ว |
+| **Dinohumon** | Imperialdramon 30 ✓ | 🎯 **ครบ — รอสู้** |
 | **Kyukimon** | Dinohumon 50 | 🔵 |
 | **GuardiAngemon** | Kyukimon 99 | 🔵 |
 | **Hookmon** | Imperialdramon 35 + **Machine 160** (มี 108 — ขาด 52) | 🔵 |
 | **Armormon** | Hookmon 50 | 🔵 |
 | **Cannondramon** | Armormon 99 | 🔵 |
-| **Grizzmon** | Imperialdramon 45 + Defense 200 ✓ | 🎯 พร้อมแล้ว |
+| **Grizzmon** | Imperialdramon 45 ✓ + Defense 200 ✓ | 🎯 **ครบ — รอสู้** |
 | **GrapLeomon** | Grizzmon 50 | 🔵 |
 | **Marsmon** | GrapLeomon 99 | 🔵 |
-| **Digitamamon** | Imperialdramon 20 + Wisdom 300 ✓ (มี 393) | 🎯 พร้อมแล้ว |
+| **Digitamamon** | Imperialdramon 20 ✓ + Wisdom 300 ✓ | 🎯 **ครบ — รอสู้** |
 
 ---
 
@@ -114,9 +116,18 @@ Veemon LV62
 > 💡 **TP 59 พอฝึกทั้ง Dark (14) และ Machine (32)** — ทำทั้งคู่ได้เลย
 > หรือใส่ **Iron Armor** (750) = Machine +8 · Dark +7 ช่วยลดที่ต้องฝึก
 
-## 🎁 ทำได้ทันที
+## 🎁 สู้ชนะ 1 นัด = ได้ 6 ร่างรวดเดียว
 
-**Growlmon** · **Kyubimon** · **Angemon** · **Dinohumon** · **Grizzmon** · **Digitamamon**
+**Paildramon 99** และ **Imperialdramon 99** ปลดเงื่อนไขพวกนี้หมดแล้ว — รอแค่ชนะการต่อสู้
+
+| ร่าง | เงื่อนไข |
+|---|---|
+| **Growlmon** | Paildramon 30 ✓ + Fire 90 ✓ |
+| **Kyubimon** | Paildramon 40 ✓ + Ice 200 ✓ |
+| **Angemon** | Paildramon 45 ✓ + Wisdom 230 ✓ |
+| **Dinohumon** | Imperialdramon 30 ✓ |
+| **Grizzmon** | Imperialdramon 45 ✓ + Defense 200 ✓ |
+| **Digitamamon** | Imperialdramon 20 ✓ + Wisdom 300 ✓ |
 
 ## 🎰 Slot ที่ตั้งอยู่ — ถูกแล้ว
 
