@@ -58,7 +58,7 @@ Veemon LV62
 | **SkullGreymon** | **Greymon 50** + **Dark 190** (มี 176 — **ขาด 14**) | ⚠️ **คอขวด Diaboromon** |
 | **BK WarGreymon** | SkullGreymon 99 | 🔵 |
 | **WarGreymon** | MetalGreymon 99 | 🔵 |
-| **MetalGarurumon** | MetalMamemon 40 + **Machine 140** (มี 108 — **ขาด 32**) | ⚠️ **คอขวด Omnimon** |
+| **MetalGarurumon** | MetalMamemon 40 ✓ + Machine 140 ✓ (มี 179) | ✅ 🆕 **LV1** |
 | **Omnimon** 🏆 | WarGreymon 40 + MetalGarurumon 40 | 🔵 |
 | **Imperialdramon-PM** 👑 | **Imperialdramon-FM 40** ✅มี + Omnimon 40 | 🔵 **1/2 เป้าหมาย** |
 | **Diaboromon** 👑 | **GranKuwagamon 99** ✅มี + BK WarGreymon 99 | 🔵 **1/2 เป้าหมาย** |
