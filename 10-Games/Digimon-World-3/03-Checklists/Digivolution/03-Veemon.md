@@ -49,52 +49,52 @@ Veemon LV62
 
 ## เงื่อนไขทั้งหมด
 
-| ร่าง | เงื่อนไข | สถานะ |
-|---|---|---|
-| **Ex-Veemon** | Veemon 5 | ✅ |
-| **Stingmon** | Ex-Veemon 30 | ✅ |
-| **Paildramon** | Stingmon 5 + Veemon 20 | ✅ |
-| **Kabuterimon** | Stingmon 40 | ✅ |
-| **MetalMamemon** | Paildramon 20 + Machine 100 ✓ | ✅ |
-| **Devimon** | Paildramon 25 + Dark 160 ✓ | ✅ |
-| **Myotismon** | Devimon 40 | ✅ |
-| **Imperialdramon** ⭐ | Paildramon 50 + Veemon 40 | ✅ |
-| **Imperialdramon-FM** ⭐ | Imperialdramon 99 | ✅ |
-| **GranKuwagamon** ⭐ | Imperialdramon 40 + Kabuterimon 40 | ✅ |
-| **MetalGarurumon** | MetalMamemon **40** + Machine 140 ✓ | 🎯 ปั้น MetalMamemon |
-| **Greymon** | Paildramon 35 + Defense 200 ✓ | 🎯 ปั้น Paildramon ถึง 35 |
-| **SkullGreymon** | Greymon 50 + Dark 190 ✓ | 🎯 |
-| **BK WarGreymon** | SkullGreymon 99 | 🔵 |
-| **MetalGreymon** | Greymon 40 | 🔵 |
-| **WarGreymon** | MetalGreymon 99 | 🔵 |
-| **Omnimon** 🏆 | WarGreymon 40 + MetalGarurumon 40 | 🔵 |
-| **MegaGargomon** | MetalGarurumon 99 | 🔵 |
-| **MaloMyotismon** | Myotismon 99 | 🔵 |
-| **Diaboromon** 👑 | GranKuwagamon 99 ✅มี + BK WarGreymon 99 | 🔵 **1/2** |
-| **Imperialdramon-PM** 👑 | Imperialdramon-FM 40 ✅มี + Omnimon 40 | 🔵 **1/2** |
-| **Growlmon** | Paildramon 30 + Fire 90 ✓ (มี 111) | 🎯 พร้อม |
-| **WarGrowlmon** | Growlmon 50 | 🔵 |
-| **Gallantmon** | WarGrowlmon 99 | 🔵 |
-| **Beelzemon** 👑 | MaloMyotismon 40 + Gallantmon 40 | 🔵 |
-| **Kyubimon** | Paildramon 40 + Ice 200 ✓ (มี 246) | 🎯 พร้อม |
-| **Taomon** | Kyubimon **50** | 🔵 |
-| **Sakuyamon** | Taomon 99 | 🔵 |
-| **Angemon** | Paildramon 45 + Wisdom 230 ✓ (มี 426) | 🎯 พร้อม |
-| **MagnaAngemon** | Angemon 50 | 🔵 |
-| **Seraphimon** | MagnaAngemon 99 | 🔵 |
-| **Angewomon** | MagnaAngemon 20 | 🔵 |
-| **Rosemon** | Angewomon 40 | 🔵 |
-| **Phoenixmon** | Rosemon 99 | 🔵 |
-| **Dinohumon** | Imperialdramon 30 ✓ | 🎯 พร้อม |
-| **Kyukimon** | Dinohumon 50 | 🔵 |
-| **GuardiAngemon** | Kyukimon 99 | 🔵 |
-| **Hookmon** | Imperialdramon 35 + Machine 160 ✓ (มี 168) | 🎯 พร้อม |
-| **Armormon** | Hookmon 50 | 🔵 |
-| **Cannondramon** | Armormon 99 | 🔵 |
-| **Grizzmon** | Imperialdramon 45 + Defense 200 ✓ | 🎯 พร้อม |
-| **GrapLeomon** | Grizzmon 50 | 🔵 |
-| **Marsmon** | GrapLeomon 99 | 🔵 |
-| **Digitamamon** | Imperialdramon 20 + Wisdom 300 ✓ (มี 426) | 🎯 พร้อม |
+| ร่าง                     | เงื่อนไข                                   | สถานะ                     |
+| ------------------------ | ------------------------------------------ | ------------------------- |
+| **Ex-Veemon**            | Veemon 5                                   | ✅                         |
+| **Stingmon**             | Ex-Veemon 30                               | ✅                         |
+| **Paildramon**           | Stingmon 5 + Veemon 20                     | ✅                         |
+| **Kabuterimon**          | Stingmon 40                                | ✅                         |
+| **MetalMamemon**         | Paildramon 20 + Machine 100 ✓              | ✅                         |
+| **Devimon**              | Paildramon 25 + Dark 160 ✓                 | ✅                         |
+| **Myotismon**            | Devimon 40                                 | ✅                         |
+| **Imperialdramon** ⭐     | Paildramon 50 + Veemon 40                  | ✅                         |
+| **Imperialdramon-FM** ⭐  | Imperialdramon 99                          | ✅                         |
+| **GranKuwagamon** ⭐      | Imperialdramon 40 + Kabuterimon 40         | ✅                         |
+| **MetalGarurumon**       | MetalMamemon **40** + Machine 140 ✓        | 🎯 ปั้น MetalMamemon      |
+| **Greymon**              | Paildramon 35 + Defense 200 ✓              | 🎯 ปั้น Paildramon ถึง 35 |
+| **SkullGreymon**         | Greymon 50 + Dark 190 ✓                    | 🎯                        |
+| **BK WarGreymon**        | SkullGreymon 99                            | 🔵                        |
+| **MetalGreymon**         | Greymon 40                                 | 🔵                        |
+| **WarGreymon**           | MetalGreymon 99                            | 🔵                        |
+| **Omnimon** 🏆           | WarGreymon 40 + MetalGarurumon 40          | 🔵                        |
+| **MegaGargomon**         | MetalGarurumon 99                          | 🔵                        |
+| **MaloMyotismon**        | Myotismon 99                               | 🔵                        |
+| **Diaboromon** 👑        | GranKuwagamon 99 ✅มี + BK WarGreymon 99    | 🔵 **1/2**                |
+| **Imperialdramon-PM** 👑 | Imperialdramon-FM 40 ✅มี + Omnimon 40      | 🔵 **1/2**                |
+| **Growlmon**             | Paildramon 30 + Fire 90 ✓ (มี 111)         | 🎯 พร้อม                  |
+| **WarGrowlmon**          | Growlmon 50                                | 🔵                        |
+| **Gallantmon**           | WarGrowlmon 99                             | 🔵                        |
+| **Beelzemon** 👑         | MaloMyotismon 40 + Gallantmon 40           | 🔵                        |
+| **Kyubimon**             | Paildramon 40 + Ice 200 ✓ (มี 246)         | 🎯 พร้อม                  |
+| **Taomon**               | Kyubimon **50**                            | 🔵                        |
+| **Sakuyamon**            | Taomon 99                                  | 🔵                        |
+| **Angemon**              | Paildramon 45 + Wisdom 230 ✓ (มี 426)      | 🎯 พร้อม                  |
+| **MagnaAngemon**         | Angemon 50                                 | 🔵                        |
+| **Seraphimon**           | MagnaAngemon 99                            | 🔵                        |
+| **Angewomon**            | MagnaAngemon 20                            | 🔵                        |
+| **Rosemon**              | Angewomon 40                               | 🔵                        |
+| **Phoenixmon**           | Rosemon 99                                 | 🔵                        |
+| **Dinohumon**            | Imperialdramon 30 ✓                        | 🎯 พร้อม                  |
+| **Kyukimon**             | Dinohumon 50                               | 🔵                        |
+| **GuardiAngemon**        | Kyukimon 99                                | 🔵                        |
+| **Hookmon**              | Imperialdramon 35 + Machine 160 ✓ (มี 168) | 🎯 พร้อม                  |
+| **Armormon**             | Hookmon 50                                 | 🔵                        |
+| **Cannondramon**         | Armormon 99                                | 🔵                        |
+| **Grizzmon**             | Imperialdramon 45 + Defense 200 ✓          | 🎯 พร้อม                  |
+| **GrapLeomon**           | Grizzmon 50                                | 🔵                        |
+| **Marsmon**              | GrapLeomon 99                              | 🔵                        |
+| **Digitamamon**          | Imperialdramon 20 + Wisdom 300 ✓ (มี 426)  | 🎯 พร้อม                  |
 
 > ⭐ **เงื่อนไขสเตตัสของ Veemon ผ่านหมดทุกข้อแล้ว** — ไม่ต้องซื้อ Chip อีกเลย
 > เหลือแค่ปั้นเลเวลของร่างต่างๆ

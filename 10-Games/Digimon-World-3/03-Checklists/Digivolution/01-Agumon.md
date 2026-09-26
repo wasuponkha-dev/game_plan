@@ -34,52 +34,52 @@ Agumon LV40
 
 ## เงื่อนไขทั้งหมด (44 ร่าง)
 
-| ร่าง | เงื่อนไข | สถานะ |
-|---|---|---|
-| **Greymon** | Agumon 5 | ✅ |
-| **MetalGreymon** | Agumon 20 | ✅ |
-| **WarGreymon** ⭐ | Agumon 40 | ✅ LV99 |
-| **Growlmon** | Greymon 20 | ✅ |
-| **SkullGreymon** | Greymon 50 + Dark 130 | ✅ LV99 |
-| **BK WarGreymon** ⭐ | SkullGreymon 99 | ✅ LV3 |
-| **MetalMamemon** | WarGreymon 10 | ✅ |
-| **MetalGarurumon** | MetalMamemon 40 | ✅ |
-| **Omnimon** 🏆 | WarGreymon 40 + MetalGarurumon 40 | ✅ **ได้แล้ว** |
-| **MegaGargomon** | MetalGarurumon 99 | 🔵 |
-| **Ex-Veemon** | MetalGreymon 30 + **Ice 100** | 🎯 **ขาด Ice 29** — ฝึกที่ Gym ได้ (TP 95) |
-| **Stingmon** | WarGreymon 30 + Speed 260 ✓ (มี 799) | 🎯 พร้อม |
-| **Paildramon** | Ex-Veemon 5 + Stingmon 5 | 🔵 |
-| **Kabuterimon** | Stingmon 50 | 🔵 |
-| **Imperialdramon** | Paildramon 50 | 🔵 |
-| **Imperialdramon-FM** | Imperialdramon 99 | 🔵 |
-| **GranKuwagamon** | Imperialdramon 40 + Kabuterimon 40 | 🔵 |
-| **Diaboromon** 👑 | GranKuwagamon 99 **+ BK WarGreymon 99** ✅ มีแล้ว 1/2 | 🔵 |
-| **Imperialdramon-PM** 👑 | Imperialdramon-FM 40 + **Omnimon 40** ✅ มีแล้ว 1/2 | 🔵 |
-| **Dinohumon** | WarGreymon 20 ✓ | 🎯 พร้อม |
-| **Kyukimon** | Dinohumon 50 | 🔵 |
-| **GuardiAngemon** | Kyukimon 99 | 🔵 |
-| **Hookmon** | WarGrowlmon 30 | 🔵 |
-| **WarGrowlmon** | Growlmon 40 + Agumon 15 ✓ | 🎯 พร้อม |
-| **Gallantmon** | WarGrowlmon 99 | 🔵 |
-| **Armormon** | Hookmon 50 | 🔵 |
-| **Cannondramon** | Armormon 99 | 🔵 |
-| **Grizzmon** | MetalGarurumon 30 + Defense 400 ✓ (มี **430**) | 🎯 **พร้อมแล้ว** |
-| **GrapLeomon** | Grizzmon 50 | 🔵 |
-| **Marsmon** | GrapLeomon 99 | 🔵 |
-| **Kyubimon** | MetalGreymon 20 ✓ + Spirit 300 ✓ (มี 318) | 🎯 พร้อม |
-| **Taomon** | Kyubimon 40 | 🔵 |
-| **Sakuyamon** | Taomon 99 | 🔵 |
-| **Angemon** | Kabuterimon 20 + Wisdom 300 ✓ (มี **378**) | 🔵 รอ Kabuterimon |
-| **MagnaAngemon** | Angemon 50 | 🔵 |
-| **Seraphimon** | MagnaAngemon 99 | 🔵 |
-| **Angewomon** | MagnaAngemon 20 | 🔵 |
-| **Rosemon** | Angewomon 40 | 🔵 |
-| **Phoenixmon** | Rosemon 99 | 🔵 |
-| **Devimon** | MagnaAngemon 30 + Dark 250 (มี 159 — ขาด 91) | 🔵 |
-| **Myotismon** | Devimon 40 | 🔵 |
-| **MaloMyotismon** | Myotismon 99 | 🔵 |
-| **Beelzemon** 👑 | MaloMyotismon 40 + Gallantmon 40 | 🔵 |
-| **Digitamamon** | MetalGarurumon 20 ✓ | 🎯 พร้อม |
+| ร่าง                     | เงื่อนไข                                             | สถานะ                                      |
+| ------------------------ | ---------------------------------------------------- | ------------------------------------------ |
+| **Greymon**              | Agumon 5                                             | ✅                                          |
+| **MetalGreymon**         | Agumon 20                                            | ✅                                          |
+| **WarGreymon** ⭐         | Agumon 40                                            | ✅ LV99                                     |
+| **Growlmon**             | Greymon 20                                           | ✅                                          |
+| **SkullGreymon**         | Greymon 50 + Dark 130                                | ✅ LV99                                     |
+| **BK WarGreymon** ⭐      | SkullGreymon 99                                      | ✅ LV3                                      |
+| **MetalMamemon**         | WarGreymon 10                                        | ✅                                          |
+| **MetalGarurumon**       | MetalMamemon 40                                      | ✅                                          |
+| **Omnimon** 🏆           | WarGreymon 40 + MetalGarurumon 40                    | ✅ **ได้แล้ว**                              |
+| **MegaGargomon**         | MetalGarurumon 99                                    | 🔵                                         |
+| **Ex-Veemon**            | MetalGreymon 30 + **Ice 100**                        | 🎯 **ขาด Ice 29** — ฝึกที่ Gym ได้ (TP 95) |
+| **Stingmon**             | WarGreymon 30 + Speed 260 ✓ (มี 799)                 | 🎯 พร้อม                                   |
+| **Paildramon**           | Ex-Veemon 5 + Stingmon 5                             | 🔵                                         |
+| **Kabuterimon**          | Stingmon 50                                          | 🔵                                         |
+| **Imperialdramon**       | Paildramon 50                                        | 🔵                                         |
+| **Imperialdramon-FM**    | Imperialdramon 99                                    | 🔵                                         |
+| **GranKuwagamon**        | Imperialdramon 40 + Kabuterimon 40                   | 🔵                                         |
+| **Diaboromon** 👑        | GranKuwagamon 99 **+ BK WarGreymon 99** ✅ มีแล้ว 1/2 | 🔵                                         |
+| **Imperialdramon-PM** 👑 | Imperialdramon-FM 40 + **Omnimon 40** ✅ มีแล้ว 1/2   | 🔵                                         |
+| **Dinohumon**            | WarGreymon 20 ✓                                      | 🎯 พร้อม                                   |
+| **Kyukimon**             | Dinohumon 50                                         | 🔵                                         |
+| **GuardiAngemon**        | Kyukimon 99                                          | 🔵                                         |
+| **Hookmon**              | WarGrowlmon 30                                       | 🔵                                         |
+| **WarGrowlmon**          | Growlmon 40 + Agumon 15 ✓                            | 🎯 พร้อม                                   |
+| **Gallantmon**           | WarGrowlmon 99                                       | 🔵                                         |
+| **Armormon**             | Hookmon 50                                           | 🔵                                         |
+| **Cannondramon**         | Armormon 99                                          | 🔵                                         |
+| **Grizzmon**             | MetalGarurumon 30 + Defense 400 ✓ (มี **430**)       | 🎯 **พร้อมแล้ว**                           |
+| **GrapLeomon**           | Grizzmon 50                                          | 🔵                                         |
+| **Marsmon**              | GrapLeomon 99                                        | 🔵                                         |
+| **Kyubimon**             | MetalGreymon 20 ✓ + Spirit 300 ✓ (มี 318)            | 🎯 พร้อม                                   |
+| **Taomon**               | Kyubimon 40                                          | 🔵                                         |
+| **Sakuyamon**            | Taomon 99                                            | 🔵                                         |
+| **Angemon**              | Kabuterimon 20 + Wisdom 300 ✓ (มี **378**)           | 🔵 รอ Kabuterimon                          |
+| **MagnaAngemon**         | Angemon 50                                           | 🔵                                         |
+| **Seraphimon**           | MagnaAngemon 99                                      | 🔵                                         |
+| **Angewomon**            | MagnaAngemon 20                                      | 🔵                                         |
+| **Rosemon**              | Angewomon 40                                         | 🔵                                         |
+| **Phoenixmon**           | Rosemon 99                                           | 🔵                                         |
+| **Devimon**              | MagnaAngemon 30 + Dark 250 (มี 159 — ขาด 91)         | 🔵                                         |
+| **Myotismon**            | Devimon 40                                           | 🔵                                         |
+| **MaloMyotismon**        | Myotismon 99                                         | 🔵                                         |
+| **Beelzemon** 👑         | MaloMyotismon 40 + Gallantmon 40                     | 🔵                                         |
+| **Digitamamon**          | MetalGarurumon 20 ✓                                  | 🎯 พร้อม                                   |
 
 ---
 
