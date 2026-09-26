@@ -5,109 +5,121 @@ game: "Digimon World 3"
 partner: Kotemon
 level: 40
 source: "GameFAQs Digivolution Guide v1.0 (Icevenant)"
-updated: 2026-09-24
+updated: 2026-09-26
 ---
 
-# ⚔️ ผัง Digivolution — Kotemon (LV40)
+# ⚔️ Kotemon (LV40) · TP 15
 
-## 🏆 สถานะปัจจุบัน
+**เป้าหมาย: ⭐ GuardiAngemon ✅ · Seraphimon · Phoenixmon**
+
+## 📊 สเตตัส (Rookie)
+
+| | ค่า | | ค่า |
+|---|---|---|---|
+| 👊 Strength | **998** | 🔥 Fire | 112 |
+| 🛡️ Defense | 333 | 💧 Water | **173** ⚠️ |
+| 🌸 Spirit | 289 | ❄️ Ice | 103 |
+| 📖 Wisdom | 269 | 🌪️ Wind | **123** ⚠️ |
+| 🍃 Speed | 953 | ⚡ Thunder | 170 |
+| ✨ Charisma | 395 | ⚙️ Machine | **157** ✅ |
+| | | 🌑 Dark | **149** ✅ |
+
+## 🏆 สถานะ
 
 ```
 Kotemon LV40
- │
- ├─ ✅ Dinohumon .......... Kotemon 5 · LV99
- │   ├─ ✅ Greymon ........ Dinohumon 20 · LV20
- │   └─ (Kyukimon มาจาก Kotemon โดยตรง)
- │
- ├─ ✅ Kyukimon ........... Kotemon 20 · LV99
- │   └─ 🎯 MetalMamemon ... Kyukimon 20 ✓ + **Machine 140** (มี 133 — ขาด 7!)
- │
- └─ ✅ GuardiAngemon ...... Kotemon 40 ✓ ⭐ Mega · LV1
-     ├─ 🎯 Stingmon ....... GuardiAngemon 10 ✓
-     └─ 🎯 Kyubimon ....... GuardiAngemon 20
+ ├─ ✅ Dinohumon LV99 ─── ✅ Greymon LV20 ─┬─ ✅ Ex-Veemon 🆕
+ │                                          └─ 🔵 MetalGreymon (Greymon 40)
+ ├─ ✅ Kyukimon LV99 ─── ✅ MetalMamemon 🆕
+ └─ ✅ GuardiAngemon ⭐ LV1 ─┬─ 🎯 Stingmon (GuardiAngemon 10)
+                             └─ 🎯 Kyubimon (GuardiAngemon 20) ⬅ คอขวด
 ```
 
-> 📌 **แก้จากข้อมูลเดิม:** Kyukimon ของ Kotemon มาจาก **Kotemon 20** โดยตรง (ไม่ใช่ Dinohumon 50)
-> และ **GuardiAngemon ← Kotemon 40** ตรงๆ — นั่นคือเหตุผลที่ได้มาตอน LV40 พอดี
+> 📌 **Kyukimon ← Kotemon 20** และ **GuardiAngemon ← Kotemon 40** ตรงๆ (ไม่ผ่าน Dinohumon)
 
 ## เงื่อนไขทั้งหมด
 
-| ร่าง                     | เงื่อนไข                                   | สถานะ                        |
-| ------------------------ | ------------------------------------------ | ---------------------------- |
-| **Dinohumon**            | Kotemon 5                                  | ✅ LV99                       |
-| **Kyukimon**             | Kotemon 20                                 | ✅ LV99                       |
-| **GuardiAngemon** ⭐      | Kotemon 40                                 | ✅ LV1                        |
-| **Greymon**              | Dinohumon 20 ✓                             | ✅ LV20                       |
-| **MetalGreymon**         | Greymon 40 + Kotemon 15 ✓                  | 🔵 ปั้น Greymon ถึง 40       |
-| **Ex-Veemon**            | Greymon 10 ✓                               | 🎯 **พร้อมแล้ว**             |
-| **Stingmon**             | GuardiAngemon 10                           | 🎯 ปั้น GuardiAngemon ถึง 10 |
-| **Kyubimon**             | GuardiAngemon 20                           | 🎯                           |
-| **MetalMamemon**         | Kyukimon 20 ✓ + **Machine 140** (มี 133)   | 🎯 **ขาด 7**                 |
-| **Paildramon**           | Ex-Veemon 5 + Stingmon 5                   | 🔵                           |
-| **Kabuterimon**          | Stingmon 40                                | 🔵                           |
-| **Imperialdramon**       | Paildramon 50                              | 🔵                           |
-| **Imperialdramon-FM**    | Imperialdramon 99                          | 🔵                           |
-| **GranKuwagamon**        | Imperialdramon 40 + Kabuterimon 40         | 🔵                           |
-| **SkullGreymon**         | Greymon 50 + **Dark 140** (มี 132 — ขาด 8) | 🔵                           |
-| **BK WarGreymon**        | SkullGreymon 99                            | 🔵                           |
-| **Diaboromon** 👑        | GranKuwagamon 99 + BK WarGreymon 99        | 🔵                           |
-| **WarGreymon**           | MetalGreymon 99                            | 🔵                           |
-| **MetalGarurumon**       | MetalMamemon 40 + **Machine 200**          | 🔵                           |
-| **Omnimon** 🏆           | WarGreymon 40 + MetalGarurumon 40          | 🔵                           |
-| **Imperialdramon-PM** 👑 | Imperialdramon-FM 40 + Omnimon 40          | 🔵                           |
-| **MegaGargomon**         | MetalGarurumon 99                          | 🔵                           |
-| **Taomon**               | Kyubimon 40                                | 🔵                           |
-| **Sakuyamon**            | Taomon 99                                  | 🔵                           |
-| **Angewomon**            | Taomon 20 + **Water 360** (มี 152)         | 🔵                           |
-| **Rosemon**              | Angewomon 40                               | 🔵                           |
-| **Phoenixmon**           | Rosemon 99                                 | 🔵                           |
-| **Angemon**              | Taomon 30 + **Wind 200** (มี 98)           | 🔵                           |
-| **MagnaAngemon**         | Angemon 50                                 | 🔵                           |
-| **Seraphimon**           | MagnaAngemon 99                            | 🔵                           |
-| **Digitamamon**          | Taomon 40 + **Wisdom 280** (มี 184)        | 🔵                           |
-| **Devimon**              | Digitamamon 20                             | 🔵                           |
-| **Myotismon**            | Devimon 40                                 | 🔵                           |
-| **MaloMyotismon**        | Myotismon 99                               | 🔵                           |
-| **Growlmon**             | Taomon 50 + **Fire 200** (มี 103)          | 🔵                           |
-| **WarGrowlmon**          | Growlmon 50                                | 🔵                           |
-| **Gallantmon**           | WarGrowlmon 99                             | 🔵                           |
-| **Beelzemon** 👑         | MaloMyotismon 40 + Gallantmon 40           | 🔵                           |
-| **Hookmon**              | Growlmon 20                                | 🔵                           |
-| **Armormon**             | Hookmon 50                                 | 🔵                           |
-| **Cannondramon**         | Armormon 99                                | 🔵                           |
-| **Grizzmon**             | Growlmon 30 + Speed 280 ✓ (มี 689)         | 🔵                           |
-| **GrapLeomon**           | Grizzmon 50                                | 🔵                           |
-| **Marsmon**              | GrapLeomon 99                              | 🔵                           |
+| ร่าง | เงื่อนไข | สถานะ |
+|---|---|---|
+| **Dinohumon** | Kotemon 5 | ✅ **LV99** |
+| **Kyukimon** | Kotemon 20 | ✅ **LV99** |
+| **GuardiAngemon** ⭐ | Kotemon 40 | ✅ **LV1** |
+| **Greymon** | Dinohumon 20 ✓ | ✅ **LV20** |
+| **Ex-Veemon** | Greymon 10 ✓ | ✅ 🆕 |
+| **MetalMamemon** | Kyukimon 20 ✓ + **Machine 140** ✓ (มี **157**) | ✅ 🆕 |
+| **Stingmon** | **GuardiAngemon 10** | 🎯 ปั้น GuardiAngemon |
+| **Kyubimon** | **GuardiAngemon 20** | 🎯 **คอขวด** ⬅ งานถัดไป |
+| **MetalGreymon** | Greymon 40 + Kotemon 15 ✓ | 🎯 ปั้น Greymon (LV20 → 40) |
+| **SkullGreymon** | Greymon 50 + **Dark 140** ✓ (มี **149**) | 🎯 ปั้น Greymon ถึง 50 |
+| **BK WarGreymon** | SkullGreymon 99 | 🔵 |
+| **Paildramon** | Ex-Veemon 5 + Stingmon 5 | 🎯 ต้องได้ Stingmon ก่อน |
+| **Kabuterimon** | Stingmon 40 | 🔵 |
+| **Imperialdramon** | Paildramon 50 | 🔵 |
+| **Imperialdramon-FM** | Imperialdramon 99 | 🔵 |
+| **GranKuwagamon** | Imperialdramon 40 + Kabuterimon 40 | 🔵 |
+| **Diaboromon** 👑 | GranKuwagamon 99 + BK WarGreymon 99 | 🔵 |
+| **WarGreymon** | MetalGreymon 99 | 🔵 |
+| **MetalGarurumon** | MetalMamemon 40 + **Machine 200** (มี 157 — ขาด 43) | 🔵 |
+| **Omnimon** 🏆 | WarGreymon 40 + MetalGarurumon 40 | 🔵 |
+| **Imperialdramon-PM** 👑 | Imperialdramon-FM 40 + Omnimon 40 | 🔵 |
+| **MegaGargomon** | MetalGarurumon 99 | 🔵 |
+| **Taomon** | **Kyubimon 40** | 🔵 ⬅ รากของทั้ง 2 เป้าหมาย |
+| **Sakuyamon** | Taomon 99 | 🔵 |
+| **Angemon** | Taomon 30 + **Wind 200** (มี 123 — **ขาด 77**) | ⚠️ **คอขวด Seraphimon** |
+| **MagnaAngemon** | Angemon 50 | 🔵 |
+| **Seraphimon** | MagnaAngemon 99 | 🔵 **เป้าหมาย** |
+| **Angewomon** | Taomon 20 + **Water 360** (มี 173 — **ขาด 187**) | ⚠️ **คอขวด Phoenixmon** |
+| **Rosemon** | Angewomon 40 | 🔵 |
+| **Phoenixmon** | Rosemon 99 | 🔵 **เป้าหมาย** |
+| **Digitamamon** | Taomon 40 + **Wisdom 280** (มี 269 — ขาด 11) | 🔵 |
+| **Devimon** | Digitamamon 20 | 🔵 |
+| **Myotismon** | Devimon 40 | 🔵 |
+| **MaloMyotismon** | Myotismon 99 | 🔵 |
+| **Beelzemon** 👑 | MaloMyotismon 40 + Gallantmon 40 | 🔵 |
+| **Growlmon** | Taomon 50 + **Fire 200** (มี 112 — ขาด 88) | 🔵 |
+| **WarGrowlmon** | Growlmon 50 | 🔵 |
+| **Gallantmon** | WarGrowlmon 99 | 🔵 |
+| **Hookmon** | Growlmon 20 | 🔵 |
+| **Armormon** | Hookmon 50 | 🔵 |
+| **Cannondramon** | Armormon 99 | 🔵 |
+| **Grizzmon** | Growlmon 30 + **Speed 280** ✓ (มี 953) | 🔵 รอ Growlmon |
+| **GrapLeomon** | Grizzmon 50 | 🔵 |
+| **Marsmon** | GrapLeomon 99 | 🔵 |
 
 ---
 
-## 🎯 แผนของ Kotemon
+## 🎯 เส้นทางสู่เป้าหมาย — ทุกอย่างผ่าน **Taomon**
 
-### 🥇 ทำได้ทันที ไม่ต้องซื้ออะไร
-
-| ร่าง | เงื่อนไข |
-|---|---|
-| **Ex-Veemon** | Greymon 10 ✓ — **พร้อมแล้ว** |
-| **Stingmon** | ปั้น GuardiAngemon ถึง LV10 |
-
-→ ได้ทั้งคู่ = ปลด **Paildramon** ทันที (Ex-Veemon 5 + Stingmon 5)
-
-### 🥈 ซื้อ Chip 2 อัน
-
-| Chip | ดันอะไร | ปลดอะไร |
-|---|---|---|
-| **Metal Chip** | Machine 133 → 140 (ขาด **7**) | **MetalMamemon** |
-| **Devil Chip** | Dark 132 → 140 (ขาด **8**) | **SkullGreymon** (ต้องมี Greymon 50 ด้วย) |
-
-### 📋 ลำดับแนะนำ
+```
+✅ GuardiAngemon LV1 ──20──→ Kyubimon ──40──→ Taomon ─┬──30──→ Angemon ──50──→ MagnaAngemon ──99──→ Seraphimon
+                                                       │    ⚠️ Wind 200 (ขาด 77)
+                                                       └──20──→ Angewomon ──40──→ Rosemon ──99──→ Phoenixmon
+                                                            ⚠️ Water 360 (ขาด 187)
+```
 
 | ลำดับ | ทำอะไร | ได้อะไร |
 |---|---|---|
-| 1 | Digivolve **Ex-Veemon** (พร้อมแล้ว) → LV5 | ครึ่งเงื่อนไข Paildramon |
-| 2 | **GuardiAngemon → LV10** → Stingmon → LV5 | **Paildramon** |
-| 3 | ซื้อ **Metal Chip** | **MetalMamemon** |
-| 4 | **GuardiAngemon → LV20** | **Kyubimon** → เปิดสายเวท |
-| 5 | **Greymon → LV40** (ตอนนี้ LV20) | **MetalGreymon** |
+| **1** | **GuardiAngemon → LV20** | Stingmon (10) + **Kyubimon** (20) |
+| **2** | Kyubimon → **LV40** | **Taomon** ⬅ รากของทั้งสองเป้า |
+| **3** | 🏋️ ฝึก **Wind → 200** (ขาด 77) | เตรียม Angemon |
+| **4** | Taomon → **LV30** | **Angemon** → 50 → MagnaAngemon → 99 → **Seraphimon** |
+| **5** | 🏋️ ฝึก **Water → 360** (ขาด **187**) ⚠️ | เตรียม Angewomon |
+| **6** | Taomon → **LV20** | **Angewomon** → 40 → Rosemon → 99 → **Phoenixmon** |
 
-> 💡 **GuardiAngemon คือรากของ Kotemon** — LV10 ได้ Stingmon · LV20 ได้ Kyubimon
-> ตอนนี้อยู่ LV1 ปั้นถึง 20 จะปลดสองสายรวดเดียว
+> ⚠️ **Water 360 คือเงื่อนไขที่แพงที่สุดในแผนทั้งหมด**
+> **Kotemon มี TP แค่ 15** — ต้องสู้สะสม TP อีกเยอะ
+> 💡 **Mater Ring** (400 bits) เพิ่ม Water **+20** — ซื้อหลายชิ้นช่วยได้
+
+## ✅ เงื่อนไขที่เพิ่งผ่าน
+
+- **Machine 157** ≥ 140 → **MetalMamemon** 🆕
+- **Dark 149** ≥ 140 → **SkullGreymon** (รอ Greymon 50)
+- Greymon 10 ✓ → **Ex-Veemon** 🆕
+
+## 🎰 Slot — ควรสลับ
+
+| ช่อง | ตอนนี้ | ควรเป็น | เหตุผล |
+|---|---|---|---|
+| 1 | Dinohumon (LV99 เต็ม) | **GuardiAngemon** | คอขวด — ปั้นถึง 20 |
+| 2 | Kyukimon | **Kyukimon** (LV99) | ตัวแรงไว้สู้ |
+| 3 | GuardiAngemon | **Greymon** (LV20) | ปั้นถึง 40/50 → MetalGreymon + SkullGreymon |

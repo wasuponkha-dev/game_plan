@@ -3,127 +3,118 @@ type: reference
 subtype: digivolution
 game: "Digimon World 3"
 partner: Agumon
-level: 54
+level: 55
 source: "GameFAQs Digivolution Guide v1.0 (Icevenant)"
-updated: 2026-09-24
+updated: 2026-09-26
 ---
 
-# 🦖 ผัง Digivolution — Agumon (LV54)
+# 🦖 Agumon (LV55) · TP 69
 
-> ✅ ปลดแล้ว · 🔵 ยังไม่ปลด · 🎯 ใกล้มาก
+**เป้าหมาย: 🏆 Omnimon ✅ · 👑 Beelzemon · ⭐ BK WarGreymon ✅**
 
-## 🏆 สถานะปัจจุบัน
+## 📊 สเตตัส (Rookie)
+
+| | ค่า | | ค่า |
+|---|---|---|---|
+| 👊 Strength | 952 | 🔥 Fire | 172 |
+| 🛡️ Defense | **569** | 💧 Water | 153 |
+| 🌸 Spirit | 406 | ❄️ Ice | **116** ✅ |
+| 📖 Wisdom | **384** | 🌪️ Wind | 156 |
+| 🍃 Speed | 911 | ⚡ Thunder | 141 |
+| ✨ Charisma | 484 | ⚙️ Machine | 146 |
+| | | 🌑 Dark | **156** |
+
+## 🏆 สถานะ
 
 ```
-Agumon LV40
- │
- ├─ ✅ Greymon ............ Agumon 5
- │   ├─ ✅ Growlmon ....... Greymon 20
- │   └─ ✅ SkullGreymon ... Greymon 50 + Dark 130 ✓ · LV99
- │       └─ ✅ BK WarGreymon  SkullGreymon 99 ✓ ⭐ Mega · LV3
- │
- ├─ ✅ MetalGreymon ....... Agumon 20
- │   └─ ✅ WarGreymon ..... Agumon 40 ✓ ⭐ Mega · LV99 🔝
- │       ├─ ✅ MetalMamemon  WarGreymon 10 ✓
- │       │   └─ ✅ MetalGarurumon  MetalMamemon 40 ✓
- │       │       └─ 🔵 MegaGargomon  MetalGarurumon 99
- │       └─ ✅ 🏆 Omnimon .. WarGreymon 40 ✓ + MetalGarurumon 40 ✓
- │
- └─ 🎯 Ex-Veemon .......... MetalGreymon 30 ✓ + **Ice 100** (มี 74 — ขาด 26!)
+Agumon LV55
+ ├─ ✅ Greymon ─┬─ ✅ Growlmon ─── 🔵 WarGrowlmon (Growlmon 40)
+ │              └─ ✅ SkullGreymon LV99 ─── ✅ BK WarGreymon ⭐
+ ├─ ✅ MetalGreymon ─── ✅ WarGreymon LV99 ─┬─ ✅ MetalMamemon ─── ✅ MetalGarurumon
+ │                                           └─ ✅ 🏆 Omnimon
+ └─ ✅ Ex-Veemon 🆕 ─┬─ ✅ Stingmon 🆕 ─── 🔵 Kabuterimon (Stingmon 50)
+                     └─ ✅ Paildramon 🆕 ─── 🔵 Imperialdramon (Paildramon 50)
 ```
 
-## เงื่อนไขทั้งหมด (44 ร่าง)
+## เงื่อนไขทั้งหมด
 
-| ร่าง                     | เงื่อนไข                                             | สถานะ                                      |
-| ------------------------ | ---------------------------------------------------- | ------------------------------------------ |
-| **Greymon**              | Agumon 5                                             | ✅                                          |
-| **MetalGreymon**         | Agumon 20                                            | ✅                                          |
-| **WarGreymon** ⭐         | Agumon 40                                            | ✅ LV99                                     |
-| **Growlmon**             | Greymon 20                                           | ✅                                          |
-| **SkullGreymon**         | Greymon 50 + Dark 130                                | ✅ LV99                                     |
-| **BK WarGreymon** ⭐      | SkullGreymon 99                                      | ✅ LV3                                      |
-| **MetalMamemon**         | WarGreymon 10                                        | ✅                                          |
-| **MetalGarurumon**       | MetalMamemon 40                                      | ✅                                          |
-| **Omnimon** 🏆           | WarGreymon 40 + MetalGarurumon 40                    | ✅ **ได้แล้ว**                              |
-| **MegaGargomon**         | MetalGarurumon 99                                    | 🔵                                         |
-| **Ex-Veemon**            | MetalGreymon 30 + **Ice 100**                        | 🎯 **ขาด Ice 29** — ฝึกที่ Gym ได้ (TP 95) |
-| **Stingmon**             | WarGreymon 30 + Speed 260 ✓ (มี 799)                 | 🎯 พร้อม                                   |
-| **Paildramon**           | Ex-Veemon 5 + Stingmon 5                             | 🔵                                         |
-| **Kabuterimon**          | Stingmon 50                                          | 🔵                                         |
-| **Imperialdramon**       | Paildramon 50                                        | 🔵                                         |
-| **Imperialdramon-FM**    | Imperialdramon 99                                    | 🔵                                         |
-| **GranKuwagamon**        | Imperialdramon 40 + Kabuterimon 40                   | 🔵                                         |
-| **Diaboromon** 👑        | GranKuwagamon 99 **+ BK WarGreymon 99** ✅ มีแล้ว 1/2 | 🔵                                         |
-| **Imperialdramon-PM** 👑 | Imperialdramon-FM 40 + **Omnimon 40** ✅ มีแล้ว 1/2   | 🔵                                         |
-| **Dinohumon**            | WarGreymon 20 ✓                                      | 🎯 พร้อม                                   |
-| **Kyukimon**             | Dinohumon 50                                         | 🔵                                         |
-| **GuardiAngemon**        | Kyukimon 99                                          | 🔵                                         |
-| **Hookmon**              | WarGrowlmon 30                                       | 🔵                                         |
-| **WarGrowlmon**          | Growlmon 40 + Agumon 15 ✓                            | 🎯 พร้อม                                   |
-| **Gallantmon**           | WarGrowlmon 99                                       | 🔵                                         |
-| **Armormon**             | Hookmon 50                                           | 🔵                                         |
-| **Cannondramon**         | Armormon 99                                          | 🔵                                         |
-| **Grizzmon**             | MetalGarurumon 30 + Defense 400 ✓ (มี **430**)       | 🎯 **พร้อมแล้ว**                           |
-| **GrapLeomon**           | Grizzmon 50                                          | 🔵                                         |
-| **Marsmon**              | GrapLeomon 99                                        | 🔵                                         |
-| **Kyubimon**             | MetalGreymon 20 ✓ + Spirit 300 ✓ (มี 318)            | 🎯 พร้อม                                   |
-| **Taomon**               | Kyubimon 40                                          | 🔵                                         |
-| **Sakuyamon**            | Taomon 99                                            | 🔵                                         |
-| **Angemon**              | Kabuterimon 20 + Wisdom 300 ✓ (มี **378**)           | 🔵 รอ Kabuterimon                          |
-| **MagnaAngemon**         | Angemon 50                                           | 🔵                                         |
-| **Seraphimon**           | MagnaAngemon 99                                      | 🔵                                         |
-| **Angewomon**            | MagnaAngemon 20                                      | 🔵                                         |
-| **Rosemon**              | Angewomon 40                                         | 🔵                                         |
-| **Phoenixmon**           | Rosemon 99                                           | 🔵                                         |
-| **Devimon**              | MagnaAngemon 30 + Dark 250 (มี 159 — ขาด 91)         | 🔵                                         |
-| **Myotismon**            | Devimon 40                                           | 🔵                                         |
-| **MaloMyotismon**        | Myotismon 99                                         | 🔵                                         |
-| **Beelzemon** 👑         | MaloMyotismon 40 + Gallantmon 40                     | 🔵                                         |
-| **Digitamamon**          | MetalGarurumon 20 ✓                                  | 🎯 พร้อม                                   |
+| ร่าง | เงื่อนไข | สถานะ |
+|---|---|---|
+| **Greymon** | Agumon 5 | ✅ |
+| **MetalGreymon** | Agumon 20 | ✅ |
+| **WarGreymon** ⭐ | Agumon 40 | ✅ **LV99** |
+| **Growlmon** | Greymon 20 | ✅ |
+| **SkullGreymon** | Greymon 50 + Dark 130 ✓ | ✅ **LV99** |
+| **BK WarGreymon** ⭐ | SkullGreymon 99 | ✅ **LV3** |
+| **MetalMamemon** | WarGreymon 10 | ✅ |
+| **MetalGarurumon** | MetalMamemon 40 | ✅ |
+| **Omnimon** 🏆 | WarGreymon 40 + MetalGarurumon 40 | ✅ **ได้แล้ว** |
+| **Ex-Veemon** | MetalGreymon 30 + **Ice 100** ✓ (มี 116) | ✅ 🆕 |
+| **Stingmon** | WarGreymon 30 + **Speed 260** ✓ (มี 911) | ✅ 🆕 |
+| **Paildramon** | Ex-Veemon 5 + Stingmon 5 | ✅ 🆕 |
+| **Kabuterimon** | **Stingmon 50** | 🎯 **ปั้น Stingmon** ⬅ งานถัดไป |
+| **Imperialdramon** | Paildramon 50 | 🔵 |
+| **Imperialdramon-FM** | Imperialdramon 99 | 🔵 |
+| **GranKuwagamon** | Imperialdramon 40 + Kabuterimon 40 | 🔵 |
+| **Diaboromon** 👑 | GranKuwagamon 99 + **BK WarGreymon 99** ✅ | 🔵 1/2 |
+| **Imperialdramon-PM** 👑 | Imperialdramon-FM 40 + **Omnimon 40** ✅ | 🔵 1/2 |
+| **Angemon** | Kabuterimon 20 + **Wisdom 300** ✓ (มี 384) | 🔵 รอ Kabuterimon |
+| **MagnaAngemon** | Angemon 50 | 🔵 |
+| **Seraphimon** | MagnaAngemon 99 | 🔵 |
+| **Angewomon** | MagnaAngemon 20 | 🔵 |
+| **Rosemon** | Angewomon 40 | 🔵 |
+| **Phoenixmon** | Rosemon 99 | 🔵 |
+| **Devimon** | MagnaAngemon 30 + **Dark 250** (มี 156 — **ขาด 94**) | ⚠️ **คอขวด Beelzemon** |
+| **Myotismon** | Devimon 40 | 🔵 |
+| **MaloMyotismon** | Myotismon 99 | 🔵 |
+| **WarGrowlmon** | Growlmon 40 + Agumon 15 ✓ | 🎯 ปั้น Growlmon |
+| **Gallantmon** | WarGrowlmon 99 | 🔵 |
+| **Beelzemon** 👑 | MaloMyotismon 40 + Gallantmon 40 | 🔵 **เป้าหมาย** |
+| **Grizzmon** | MetalGarurumon 30 + **Defense 400** ✓ (มี 569) | 🎯 **พร้อมแล้ว** |
+| **GrapLeomon** | Grizzmon 50 | 🔵 |
+| **Marsmon** | GrapLeomon 99 | 🔵 |
+| **Dinohumon** | WarGreymon 20 ✓ | 🎯 พร้อมแล้ว |
+| **Kyukimon** | Dinohumon 50 | 🔵 |
+| **GuardiAngemon** | Kyukimon 99 | 🔵 |
+| **Hookmon** | WarGrowlmon 30 | 🔵 |
+| **Armormon** | Hookmon 50 | 🔵 |
+| **Cannondramon** | Armormon 99 | 🔵 |
+| **Kyubimon** | MetalGreymon 20 ✓ + **Spirit 300** ✓ (มี 406) | 🎯 พร้อมแล้ว |
+| **Taomon** | Kyubimon 40 | 🔵 |
+| **Sakuyamon** | Taomon 99 | 🔵 |
+| **Digitamamon** | MetalGarurumon 20 ✓ | 🎯 พร้อมแล้ว |
+| **MegaGargomon** | MetalGarurumon 99 | 🔵 |
 
 ---
 
-## 🎯 แผนใหม่ — Agumon ไปถึงร่างสูงสุดได้ทั้งคู่
+## 🎯 เส้นทางสู่ **Beelzemon**
 
-### 🥇 ขั้นแรก: ซื้อ **Ice Chip** ดัน Ice 74 → 100 (ขาด 26)
-
-> ⚠️ **นี่คือจุดที่ข้อมูลเดิมผิด** — เคยเข้าใจว่าต้อง Ice 320 ซึ่งทำให้ดูเป็นไปไม่ได้
-> ที่จริงต้องแค่ **100** — ซื้อ Ice Chip อันสองอันก็จบ
-
-เปิดสายมังกรทั้งสาย:
 ```
-Ex-Veemon ──┐
-            ├──→ Paildramon ──50──→ Imperialdramon ──99──→ Imperialdramon-FM ──40──┐
-Stingmon ───┘         │                      │                                     │
-   (พร้อมแล้ว)         │                      └──40──┐                              ├──→ 👑 Imperialdramon-PM
-                       │                              ├──→ GranKuwagamon ──99──┐    │
-                       └──→ Kabuterimon ──40─────────┘                         │    │
-                                                                    ✅ Omnimon ─────┘
-                                                    ✅ BK WarGreymon ──99──┴──→ 👑 Diaboromon
+✅ Stingmon ──50──→ Kabuterimon ──20──→ Angemon ──50──→ MagnaAngemon ──30──→ Devimon
+                                    (Wisdom ✅)                        ⚠️ Dark 250          │
+                                                                                     ──40──→ Myotismon ──99──→ MaloMyotismon ──40──┐
+                                                                                                                                    ├──→ 👑 Beelzemon
+✅ Growlmon ──40──→ WarGrowlmon ──99──→ Gallantmon ──40────────────────────────────────────────────────────────────────────────────┘
 ```
-
-### 📋 ลำดับทำจริง
 
 | ลำดับ | ทำอะไร | ได้อะไร |
 |---|---|---|
-| **1** | ซื้อ **Ice Chip** (Ice → 100) | ปลด **Ex-Veemon** |
-| **2** | Digivolve **Stingmon** (พร้อมแล้ว) → LV5 · Ex-Veemon → LV5 | ปลด **Paildramon** |
-| **3** | Stingmon → LV50 | ปลด **Kabuterimon** |
-| **4** | Paildramon → LV50 | ปลด **Imperialdramon** |
-| **5** | Imperialdramon → LV40 · Kabuterimon → LV40 | ปลด **GranKuwagamon** |
-| **6** | **GranKuwagamon → LV99** + **BK WarGreymon → LV99** | 👑 **Diaboromon** |
-| **7** | Imperialdramon → LV99 → Imperialdramon-FM → LV40 + **Omnimon → LV40** | 👑 **Imperialdramon-PM** |
+| **1** | 🏋️ **ฝึก Dark 156 → 250** (ขาด 94 · TP 69) | เตรียม Devimon |
+| **2** | **Stingmon → LV50** | **Kabuterimon** ⬅ อยู่ในทั้ง 2 เส้นทาง |
+| 3 | Kabuterimon → 20 → Angemon → 50 | MagnaAngemon |
+| 4 | MagnaAngemon → 30 | **Devimon** |
+| 5 | Devimon → 40 → Myotismon → 99 | **MaloMyotismon** |
+| 6 | Growlmon → 40 → WarGrowlmon → 99 | **Gallantmon** |
+| 7 | MaloMyotismon 40 + Gallantmon 40 | 👑 **Beelzemon** |
 
-> ⭐ **Agumon มีชิ้นส่วนของทั้งสองร่างสูงสุดอยู่แล้วอย่างละหนึ่ง** (BK WarGreymon + Omnimon)
-> เปิดสายมังกรได้เมื่อไหร่ก็ไล่เก็บได้ทั้งคู่
+## 🎁 ทำได้ทันที (เงื่อนไขผ่านแล้ว)
 
-### 🎁 ของง่ายที่ทำได้ทันที (ไม่ต้องซื้ออะไร)
+**Grizzmon** · **Dinohumon** · **Kyubimon** · **Digitamamon**
 
-| ร่าง | เงื่อนไข | หมายเหตุ |
-|---|---|---|
-| **Stingmon** | WarGreymon 30 ✓ + Speed 260 ✓ | พร้อมแล้ว |
-| **Dinohumon** | WarGreymon 20 ✓ | พร้อมแล้ว |
-| **Kyubimon** | MetalGreymon 20 ✓ + Spirit 300 ✓ | พร้อมแล้ว |
-| **Digitamamon** | MetalGarurumon 20 ✓ | พร้อมแล้ว |
-| **WarGrowlmon** | Growlmon 40 + Agumon 15 ✓ | ปั้น Growlmon ถึง 40 |
-| **MegaGargomon** | MetalGarurumon 99 | ปั้นต่อจาก 40 |
+## 🎰 Slot แนะนำ
+
+| ช่อง | ร่าง |
+|---|---|
+| 1 | **BK WarGreymon** (DNA 999 + เป้าหมาย) |
+| 2 | **Omnimon** (แรงสุด + DNA 850) |
+| 3 | **Stingmon** ⬅ ปั้นถึง 50 |
