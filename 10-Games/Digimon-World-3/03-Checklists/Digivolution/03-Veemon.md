@@ -62,7 +62,7 @@ Veemon LV62
 | **Diaboromon** 👑 | **GranKuwagamon 99** ✅มี + BK WarGreymon 99 | 🔵 **1/2 เป้าหมาย** |
 | **MaloMyotismon** | Myotismon 99 | 🎯 ปั้น Myotismon |
 | **MegaGargomon** | MetalGarurumon 99 | 🔵 |
-| **Growlmon** | Paildramon 30 ✓ + Fire 90 ✓ (มี 138) | 🎯 พร้อมแล้ว |
+| **Growlmon** | Paildramon 30 ✓ + Fire 90 ✓ (มี 138) | 🎯 **เงื่อนไขครบ — สู้ชนะ 1 นัดเพื่อรับ** |
 | **WarGrowlmon** | Growlmon 50 | 🔵 |
 | **Gallantmon** | WarGrowlmon 99 | 🔵 |
 | **Beelzemon** 👑 | MaloMyotismon 40 + Gallantmon 40 | 🔵 |
