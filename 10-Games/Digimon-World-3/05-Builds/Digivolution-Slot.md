@@ -29,7 +29,7 @@ updated: 2026-09-26
 | Partner | ช่อง 1 | ช่อง 2 | ช่อง 3 |
 |---|---|---|---|
 | **Agumon** | **BK WarGreymon** ⬅ ปั้น 99 | Omnimon (แรงสุด) | **Stingmon** ⬅ ปั้น 50 |
-| **Veemon** | **Myotismon** ⬅ ปั้น 99 | **Growlmon** ⬅ ปั้น 50 | GranKuwagamon (แรง) |
+| **Veemon** | **Imperialdramon-F** (แรง · ปั้นถึง 40) | **Growlmon** ⬅ ปั้น 50 | **Myotismon** ⬅ ปั้น 99 |
 | **Kotemon** | **GuardiAngemon** ⬅ ปั้น 20 | Kyukimon LV99 (แรง) | **Greymon** ⬅ ปั้น 40 |
 
 > 💡 **ช่อง 2–3 ของ Agumon/Veemon เก็บตัวแรงไว้สู้** — ไม่งั้นทีมอ่อนเกินไประหว่างปั้น
