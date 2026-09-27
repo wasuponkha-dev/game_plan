@@ -18,7 +18,7 @@ tags: [game, digimon, ps1]
 
 > [!abstract] เปิดมาอ่านตรงนี้ก่อน
 > **เนื้อเรื่องถึง:** ชนะ Byakko Leader แล้ว (Badge ใบที่ 3) → ต่อไป Genbu Leader
-> **ทำต่อ:** ตาม [[แผนการฝึก]] — Agumon→Diaboromon · Veemon→Beelzemon+Imperialdramon-PM · Kotemon→Seraphimon+Phoenixmon
+> **ทำต่อ:** ✅ **ไม่เหลือเงื่อนไขสเตตัสทั้งทีม** — ปั้นเลเวลล้วนๆ · Kotemon เปิดทาง Seraphimon+Phoenixmon แล้ว
 > **✅ Partner ครบ 8/8** — ไม่มีเส้นตายเลเวลอีกแล้ว ฟาร์มได้เต็มที่
 > **เซฟไว้ที่:** 
 
